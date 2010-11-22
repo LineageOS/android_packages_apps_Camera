@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAABX//+hY\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1747,
+      "author": {
+        "id": 8
+      },
+      "writtenOn": "2010-11-22T03:45:22Z",
+      "side": 1,
+      "message": "this area is where focus mode isn\u0027t being sent to the camera - should be either infinity or auto, unless the continuous is to be applied all in \u0027infinity\u0027 mode also.",
+      "revId": "167accb8d4e7360468911fbb4a9e0d5c4339124a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
