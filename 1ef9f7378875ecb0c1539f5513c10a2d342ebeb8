@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAB3//+fM\u003d",
+        "filename": "res/values-zh-rTW/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-01-20T08:20:45Z",
+      "side": 1,
+      "message": "Lots of translatable\u003dfalse strings here, can\u0027t have these.",
+      "revId": "1ef9f7378875ecb0c1539f5513c10a2d342ebeb8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
