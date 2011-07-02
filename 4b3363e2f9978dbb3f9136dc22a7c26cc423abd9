@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHX///uE\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 544,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-02T22:37:03Z",
+      "side": 1,
+      "message": "If it\u0027s unneeded, please simply delete that line instead of commenting it.",
+      "revId": "4b3363e2f9978dbb3f9136dc22a7c26cc423abd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHX///uA\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 868,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-02T22:37:03Z",
+      "side": 1,
+      "message": "Those two case statements are almost equal. I suggest to unify them. Suggestion:\n\ncase KeyEvent.KEYCODE_VOLUME_UP:\ncase KeyEvent.KEYCODE_VOLUME_DOWN:\n    if (volZoom) {\n        if (keyCode \u003d\u003d KeyEvent.KEYCODE_VOLUME_UP \u0026\u0026 mZoomValue \u003c mZoomMax) {\n            mZoomValue ++;\n        } else if (keyCode \u003d\u003d KeyEvent.KEYCODE_VOLUME_DOWN \u0026\u0026 mZoomValue \u003e 0) {\n            mZoomValue--;\n        }\n        onZoomValueChanged(mZoomValue);\n        mHeadUpDisplay.setZoomIndex(mZoomValue);\n        return true;\n    }\n    break;",
+      "revId": "4b3363e2f9978dbb3f9136dc22a7c26cc423abd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
