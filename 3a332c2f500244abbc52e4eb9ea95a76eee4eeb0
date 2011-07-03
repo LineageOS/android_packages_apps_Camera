@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHX///qo\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-03T16:03:26Z",
+      "side": 1,
+      "message": "Why disable the search button as shutter setting if power button shutter is enabled? Those two look unrelated to me...",
+      "revId": "3a332c2f500244abbc52e4eb9ea95a76eee4eeb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHX///qs\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 1568,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-03T16:03:26Z",
+      "side": 1,
+      "message": "Can you please follow the coding style and use a brace here (and below)?",
+      "revId": "3a332c2f500244abbc52e4eb9ea95a76eee4eeb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
