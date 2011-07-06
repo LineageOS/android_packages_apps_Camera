@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHX///cc\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-06T11:31:13Z",
+      "side": 1,
+      "message": "This import seems unneeded.",
+      "revId": "92ac754e0c0237b349b27e4f1772a5b9fbb358f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHX///cY\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-06T11:31:13Z",
+      "side": 1,
+      "message": "Why do you add this option as listener if you\u0027re not doing anything with it in onPreferenceChange anyway?",
+      "revId": "92ac754e0c0237b349b27e4f1772a5b9fbb358f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHX///cQ\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 910,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-06T11:31:13Z",
+      "side": 1,
+      "message": "I think this should be done after super.onCreate(), just to be on the safe side.",
+      "revId": "92ac754e0c0237b349b27e4f1772a5b9fbb358f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHX///cM\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 8
+      },
+      "lineNbr": 846,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-07-06T11:31:13Z",
+      "side": 1,
+      "message": "I see this function is duplicated between Camera and VideoCamera. Maybe renaming it to e.g. checkPowerShutter(prefs) and moving it to BaseCamera would be a good idea.",
+      "revId": "92ac754e0c0237b349b27e4f1772a5b9fbb358f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
