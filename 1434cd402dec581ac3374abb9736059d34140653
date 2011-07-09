@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHX///D0\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 859,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-07-09T12:18:07Z",
+      "side": 1,
+      "message": "This is fine, but we should refactor AdvancedSettings to use the ComboPreferences which has per-camera settings.",
+      "revId": "1434cd402dec581ac3374abb9736059d34140653",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
