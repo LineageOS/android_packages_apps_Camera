@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn///gY\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 563,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2011-07-29T23:52:16Z",
+      "side": 1,
+      "message": "Tab should be replaced by spaces.",
+      "revId": "668985e5c543e6407a4f856188073b5b472382b2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
