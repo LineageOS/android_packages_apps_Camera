@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//9w8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-15T10:33:07Z",
+      "side": 1,
+      "message": "Bitte einmal Tab-\u003eSpace konvertieren.",
+      "revId": "4887b9881e3ec0e41a7b1392a64d90ef03d0ed45",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
