@@ -16,6 +16,24 @@
       "revId": "3231e1de5391ded04f8b78087094599400c5a265",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9b8\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2011-08-19T22:02:52Z",
+      "side": 1,
+      "message": "Good catch.\n\nWht do you propose...moving these over to strings.xml or just keeping them here and making them translatable false ?",
+      "parentUuid": "AAAAHn//9cI\u003d",
+      "revId": "3231e1de5391ded04f8b78087094599400c5a265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
