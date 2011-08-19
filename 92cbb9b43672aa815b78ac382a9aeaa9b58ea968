@@ -138,6 +138,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAHn//9gU\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1727,
+      "author": {
+        "id": 692
+      },
+      "writtenOn": "2011-08-19T15:28:35Z",
+      "side": 1,
+      "message": "Space before else? Since Danny said :)\nThere\u0027s one below too :)",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAHn//9ho\u003d",
         "filename": "src/com/android/camera/Camera.java",
         "patchSetId": 3
