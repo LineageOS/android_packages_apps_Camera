@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//9eY\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 692
+      },
+      "writtenOn": "2011-08-19T19:54:42Z",
+      "side": 1,
+      "message": "Focue \u003d focus? there\u0027s one below too while you\u0027re at it :)",
+      "revId": "7b65b86a5316392a8c72934f78f83df258f44a80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
