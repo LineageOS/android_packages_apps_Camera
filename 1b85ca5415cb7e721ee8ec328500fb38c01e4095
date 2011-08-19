@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//9ew\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 692
+      },
+      "writtenOn": "2011-08-19T19:48:46Z",
+      "side": 1,
+      "message": "Typo? focue \u003d focus :)",
+      "revId": "1b85ca5415cb7e721ee8ec328500fb38c01e4095",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9e0\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 1718,
+      "author": {
+        "id": 692
+      },
+      "writtenOn": "2011-08-19T19:48:46Z",
+      "side": 1,
+      "message": "space before { again :) :) :)",
+      "revId": "1b85ca5415cb7e721ee8ec328500fb38c01e4095",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
