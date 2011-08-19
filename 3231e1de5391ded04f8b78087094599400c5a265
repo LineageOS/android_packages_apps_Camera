@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//9cI\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 8
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 280
+      },
+      "writtenOn": "2011-08-19T21:46:21Z",
+      "side": 1,
+      "message": "This will break the tradition of Camera app by becoming the only one translatable string-array.",
+      "revId": "3231e1de5391ded04f8b78087094599400c5a265",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
