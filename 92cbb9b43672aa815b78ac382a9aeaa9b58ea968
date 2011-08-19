@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//9iI\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 245,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "How about \u0027Immediate\u0027?",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9iE\u003d",
+        "filename": "res/xml/camera_advanced_settings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "That\u0027s ugly. In the UI, you want entries like \u002710 seconds\u0027, not \u002710\u0027 without any unit.",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9iA\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "A boolean instead of a Boolean should be sufficient here ... less work for the GC ;)",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9h8\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 267,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "You would do me a big favour if you could insert a space after the colon, like the rest of the code does. Same goes for \u0027if (foo) {\u0027 instead of \u0027if (foo){\u0027.",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9h4\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1675,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "... or here ;)",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9h0\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1678,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "That\u0027s ugly. Both \u00270:60\u0027 and \u00270:3\u0027 don\u0027t look correct. This should do it:\nString text \u003d String.format(\"%d:%02d\", timerSeconds / 60, timerSeconds % 60);",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9hw\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1685,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "Admittedly nitpicking, but an else block instead of the return seems more appropriate.",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9hs\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1724,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "There is prefs.getInt()...",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9ho\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1732,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-08-19T12:22:15Z",
+      "side": 1,
+      "message": "Might save the view as member variable, it\u0027s already named that way ;)\nSaves re-fetching it again and again.",
+      "revId": "92cbb9b43672aa815b78ac382a9aeaa9b58ea968",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
