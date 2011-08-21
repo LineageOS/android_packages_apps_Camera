@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn//9Xo\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 129
+      },
+      "writtenOn": "2011-08-21T06:05:52Z",
+      "side": 1,
+      "message": "Location (geo) is confused with storage here - an error that is there for a long time. I suggest to use \u0027Ukládat polohu\u0027.",
+      "revId": "8c79a875bcb098a59da6137e6e9b2d1783bae05b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAHn//9Xk\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 129
+      },
+      "writtenOn": "2011-08-21T06:05:52Z",
+      "side": 1,
+      "message": "redundant whitespace (also in several places below this line)",
+      "revId": "8c79a875bcb098a59da6137e6e9b2d1783bae05b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
