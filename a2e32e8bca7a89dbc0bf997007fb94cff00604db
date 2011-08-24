@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3///qQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2011-08-24T12:55:10Z",
+      "side": 1,
+      "message": "Tippfehler \u003d\u003d\u003e Kameraauslöser!\r\nWie wäre es mit Selbstauslöser? Sieht meiner Meinung nach irgendwie schöner aus, und ist ja auch ein feststehender Begriff. \r\n\r\nhttp://de.wikipedia.org/wiki/Selbstausl%C3%B6ser",
+      "revId": "a2e32e8bca7a89dbc0bf997007fb94cff00604db",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
