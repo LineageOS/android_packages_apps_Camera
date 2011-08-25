@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3///nw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2011-08-25T00:01:15Z",
+      "side": 1,
+      "message": "Selbstauslöser bitte mit \"s\" und nicht \"ß\"\n\nhttp://www.duden.de/suchen/dudenonline/selbstausl%C3%B6ser",
+      "revId": "f63efab5936f535f6545f24c7354b4396b6463a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAH3///ns\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2011-08-25T00:01:15Z",
+      "side": 1,
+      "message": "Selbstauslöser!",
+      "revId": "f63efab5936f535f6545f24c7354b4396b6463a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
