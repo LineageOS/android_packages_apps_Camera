@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3//+Hw\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 303,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-09-09T18:10:18Z",
+      "side": 1,
+      "message": "s3d-supported is a OMAP4 specific parameter? This sounds rather LG specific to me, right?",
+      "revId": "2025a68dc125379cc812d15c405fa4ae12aab184",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAH3//+Hs\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 311,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-09-09T18:10:18Z",
+      "side": 1,
+      "message": "I don\u0027t understand that. What\u0027s the point of checking the parameters and setting the variables if you aren\u0027t going to use them anyway?",
+      "revId": "2025a68dc125379cc812d15c405fa4ae12aab184",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
