@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3//93g\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 1556
+      },
+      "writtenOn": "2011-09-15T00:31:57Z",
+      "side": 1,
+      "message": "relâcher \u003c-- circonflexe ;)",
+      "revId": "5aac8224b698b7f1d3b2ae891f0525c293a9cf71",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
