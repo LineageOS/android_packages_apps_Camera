@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAKn///xA\u003d",
+        "filename": "res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-10-27T02:45:35Z",
+      "side": 1,
+      "message": "Follow this file\u0027s style and use tabs, not spaces.",
+      "revId": "944596488ce20e3e40dd9076db2efaeeed4110e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
