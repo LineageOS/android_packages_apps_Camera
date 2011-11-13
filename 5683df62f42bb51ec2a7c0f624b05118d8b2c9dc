@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAALH///LA\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1704,
+      "author": {
+        "id": 1946
+      },
+      "writtenOn": "2011-11-13T02:34:57Z",
+      "side": 1,
+      "message": "Per turl\u0027s recommendations, this will be replaced by a conditional check in the mFocusState \u003d\u003d FOCUS_NOT_STARTED, as the Photon\u0027s single-stage button introduces a bit of weirdness.",
+      "revId": "5683df62f42bb51ec2a7c0f624b05118d8b2c9dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
