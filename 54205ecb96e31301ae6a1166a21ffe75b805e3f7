@@ -121,6 +121,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAOH///z8\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 2256
+      },
+      "writtenOn": "2011-12-16T05:27:24Z",
+      "side": 1,
+      "message": "android.os.SystemProperties class is marked with {@hide} attribute, and any attempt to use it in Camera project cause compilation errors.\nI\u0027m not sure how CMParts gains access there without using reflection - if anyone knows, please tell me.",
+      "parentUuid": "AAAAOH///0U\u003d",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAOH///0M\u003d",
         "filename": "src/com/android/camera/VideoCamera.java",
         "patchSetId": 4
