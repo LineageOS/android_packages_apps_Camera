@@ -139,6 +139,41 @@
     },
     {
       "key": {
+        "uuid": "AAAAOH///zM\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T08:22:00Z",
+      "side": 1,
+      "message": "I asked some people and it seems CMParts can do so because it\u0027s part of the platform, while Camera isn\u0027t. Sorry for the confusion.",
+      "parentUuid": "AAAAOH///z8\u003d",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///zI\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T08:22:00Z",
+      "side": 1,
+      "message": "Again, my Java is the poorest out there, but I guess you can avoid having so many catches and use a single catch (Exception x) or something like that, as the chances of this failing are (nearly?) none. I\u0027m not sure either on what\u0027s the recommended Java practices for these kind of cases.",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAOH///0M\u003d",
         "filename": "src/com/android/camera/VideoCamera.java",
         "patchSetId": 4
