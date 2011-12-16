@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOH///0o\u003d",
+        "filename": "res/xml/camera_advanced_settings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Whitespace issues",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0k\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Here too",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0g\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Fix indentation and extra whitespace",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0c\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Indentation",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0Y\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Mix of tabs and spaces on this block and the rest of your additions, use only spaces as all the rest of the file",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0Q\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "typo on the comment (Cynogen)",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0U\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Sure? My java is nonexistant but I just checked CMParts and it uses import android.os.SystemProperties and SystemProperties.getInt(\"persist.sys.vold.switchexternal\", 0)  https://github.com/CyanogenMod/android_packages_apps_CMParts/blob/gingerbread/src/com/cyanogenmod/cmparts/activities/ApplicationActivity.java#L122",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///0M\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 1008,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-12-16T04:09:28Z",
+      "side": 1,
+      "message": "Use spaces as the rest of the code, not tabs",
+      "revId": "54205ecb96e31301ae6a1166a21ffe75b805e3f7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
