@@ -1,0 +1,242 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOX///hc\u003d",
+        "filename": "res/xml/camera_advanced_settings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please remove that trailing whitespace.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hY\u003d",
+        "filename": "src/com/android/camera/AdvancedSettings.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "- Please fix up that whitespace\n- I would suggest to hide the option instead of just disabling it. After all, if this option is unsupported, it will always be unsupported, no matter what the user is doing.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hU\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 382,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "- static member variables are prefixed with s, not m\n- Why are you setting member variables of a class from another class?",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hQ\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 931,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "See above.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hM\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please remove that stuff entirely. Instead, remove the LOCAL_SDK_VERSION :\u003d current line in Android.mk; that will allow you to use hidden symbols.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///g8\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please remove that \u0027on Cyanogen\u0027.\n\na) it\u0027s CyanogenMod\nb) comments about \u0027on CyanogenMod\u0027 in CyanogenMod sources seem totally superfluous",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hA\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please remove that whitespace.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hI\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Suggestion: TextUtils.isEmpty(removableDir) ... it\u0027s more readable and allows you to use null values as well.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///hE\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Instead of that ugly public bool, I suggest a function among the lines of\n\npublic static boolean useRemovableMemory(final Context context) {\n    SharedPreferences prefs \u003d context.getSharedPreferences(\"com.android.camera_preferences\", 0);\n    return prefs.getBoolean(\"store_on_external_sd\", !isSwitchedExternal);\n}",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///g4\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please remove that commented stuff.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///g0\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please fix up that whitespace.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///gw\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 234,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please fix up that whitespace.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///gs\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 423,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "Please fix up the whitespace and add curly braces for the if block.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOX///go\u003d",
+        "filename": "src/com/android/camera/ImageManager.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 438,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-20T20:20:41Z",
+      "side": 1,
+      "message": "More whitespace. Also, the closing brace should be on a new line.",
+      "revId": "75001eb8597234d1d9bc65fd7118602b1feb901f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
