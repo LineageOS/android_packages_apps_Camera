@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPX///W4\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 267,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2012-01-20T10:54:28Z",
+      "side": 1,
+      "message": "http://fr.wiktionary.org/wiki/stoquer",
+      "revId": "26432208415e097f5fb58afcb06ff86a007ea2bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
