@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPX///WY\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-01-20T15:56:31Z",
+      "side": 1,
+      "message": "How can that change \u0027start face detection\u0027? This is a state tracking variable and by itself doesn\u0027t start face detection. Just have a look at the startFaceDetection() method.",
+      "revId": "3a731a621db17a5a4a30a6bbac96b1c416913cfe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
