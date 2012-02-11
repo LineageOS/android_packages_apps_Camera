@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX///ao\u003d",
+        "filename": "jni/mosaic_renderer_jni.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2012-02-11T22:36:47Z",
+      "side": 1,
+      "message": "missing ; ?",
+      "revId": "42b1e060201995dc295799ff19f4037bf93a1baa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
