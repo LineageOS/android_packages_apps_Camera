@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//9qw\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 2137
+      },
+      "writtenOn": "2012-02-25T00:44:17Z",
+      "side": 1,
+      "message": "No samsung has tap to focus?",
+      "revId": "6879545ecc4da6720a7c7bf2d170fbc349a3b81d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
