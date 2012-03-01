@@ -16,6 +16,24 @@
       "revId": "6879545ecc4da6720a7c7bf2d170fbc349a3b81d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//9qY\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 2296
+      },
+      "writtenOn": "2012-03-01T03:19:11Z",
+      "side": 1,
+      "message": "It has tap to focus, but it is buggy. It doesn\u0027t switch into Macro mode for instance. People also prefer to have manual control over it.\n\nAnyway, tap-to-focus mode is still enabled (it adjusts based on the focus mode set in the settings, so if you\u0027re in Macro mode, tapping the screen will focus only in the macro range).",
+      "parentUuid": "AAAAQX//9qw\u003d",
+      "revId": "6879545ecc4da6720a7c7bf2d170fbc349a3b81d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
