@@ -16,6 +16,24 @@
       "revId": "da7737b56cdd3ce263579116fdd4c9e7efda3c57",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//7T4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-03-08T23:45:50Z",
+      "side": 1,
+      "message": "Klinkt wel logischer. Zal het veranderen.",
+      "parentUuid": "AAAAQX//7UA\u003d",
+      "revId": "da7737b56cdd3ce263579116fdd4c9e7efda3c57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
