@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//7MU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-03-09T07:10:37Z",
+      "side": 1,
+      "message": "Lijkt mij nog raar...\nBedoelt men hier een foto trekken met de \u0027power\u0027 knop?\nMss \u0027uit-knop-sluiter\u0027 of \u0027aan-uitknopsluiter\u0027 of \u0027aan-uitknop-sluiter\u0027. Of iets helemaal anders als \u0027Foto met aan-uitknop\u0027",
+      "revId": "51be719db5dbd7f5583f9bfab731faf90059ad03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
