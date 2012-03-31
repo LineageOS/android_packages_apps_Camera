@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAARn///Dg\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 512,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2012-03-31T20:00:55Z",
+      "side": 1,
+      "message": "double check this second is really needed here...\n\nsetPreviewSize() is called just after in VideoCamera.java",
+      "revId": "d289793929ba22cb40a9745c74ca5893fa082270",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
