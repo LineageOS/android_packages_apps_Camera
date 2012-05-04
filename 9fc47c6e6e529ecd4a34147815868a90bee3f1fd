@@ -16,6 +16,24 @@
       "revId": "9fc47c6e6e529ecd4a34147815868a90bee3f1fd",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//83g\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1296,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2012-05-04T20:17:37Z",
+      "side": 1,
+      "message": "On galaxy nexus there is room http://goo.gl/B1rPq\nNot sure on lower res devices, is there room on sgs ?",
+      "parentUuid": "AAAASn//83o\u003d",
+      "revId": "9fc47c6e6e529ecd4a34147815868a90bee3f1fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
