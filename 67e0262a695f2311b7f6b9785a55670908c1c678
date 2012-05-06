@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3////4\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2012-05-06T23:13:24Z",
+      "side": 1,
+      "message": "m? méter? :) Gondolom másodpercröl van szó, talán jobb lenne az s, vagy az mp.",
+      "revId": "67e0262a695f2311b7f6b9785a55670908c1c678",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
