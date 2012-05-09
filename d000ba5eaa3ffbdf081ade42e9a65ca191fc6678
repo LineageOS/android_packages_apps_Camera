@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAS3///b0\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 702,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2012-05-09T01:19:41Z",
+      "side": 1,
+      "message": "Good catch, it should be compared to the array value.\n\nI\u0027ll commit fix. Thnx !",
+      "parentUuid": "AAAAS3///cE\u003d",
+      "revId": "d000ba5eaa3ffbdf081ade42e9a65ca191fc6678",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAS3///cI\u003d",
         "filename": "src/com/android/camera/Camera.java",
         "patchSetId": 5
