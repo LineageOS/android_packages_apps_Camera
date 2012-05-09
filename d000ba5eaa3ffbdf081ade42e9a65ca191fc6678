@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3///cY\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 1544,
+      "author": {
+        "id": 753
+      },
+      "writtenOn": "2012-05-09T00:48:05Z",
+      "side": 1,
+      "message": "There is no check for \"off\"!\n\nand we will get java.lang.NumberFormatException!",
+      "revId": "d000ba5eaa3ffbdf081ade42e9a65ca191fc6678",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
