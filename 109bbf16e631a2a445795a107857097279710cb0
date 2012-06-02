@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3///ig\u003d",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-06-02T20:17:10Z",
+      "side": 1,
+      "message": "\"Scatto con tasto Power\" ?",
+      "revId": "109bbf16e631a2a445795a107857097279710cb0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
