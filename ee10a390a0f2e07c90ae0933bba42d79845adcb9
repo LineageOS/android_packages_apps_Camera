@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//+ng\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-04T20:45:55Z",
+      "side": 1,
+      "message": "Zelfontspanner?",
+      "revId": "ee10a390a0f2e07c90ae0933bba42d79845adcb9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
