@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH///uM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-06-11T12:39:25Z",
+      "side": 1,
+      "message": "http://de.wikipedia.org/wiki/Leerzeichen_in_Komposita again\n\n-\u003e Hardware-Auslöser\n\nIst aber auch nicht ganz passend, weil\u0027s ja nicht um Hardware im Allgemeinen geht, sondern um den Ein/Aus-Schalter im Besonderen.\n\nAus CM7:\n    \u003cstring name\u003d\"pref_camera_power_shutter_title\"\u003eEin-Aus als Auslöser\u003c/string\u003e\n\nFinde ich besser.",
+      "revId": "11e2112d81f9e812ce7f39cb06ec84c9abac75ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH///uI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-06-11T12:39:25Z",
+      "side": 1,
+      "message": "Das darf nicht übersetzt werden. Sollte in values/strings.xml auch translatable\u003dfalse gesetzt werden.",
+      "revId": "11e2112d81f9e812ce7f39cb06ec84c9abac75ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
