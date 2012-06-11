@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH///po\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-11T17:53:01Z",
+      "side": 1,
+      "message": "Ein/Aus Taste als Auslöser analog zu Danny.",
+      "revId": "11e2112d81f9e812ce7f39cb06ec84c9abac75ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH///uI\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
