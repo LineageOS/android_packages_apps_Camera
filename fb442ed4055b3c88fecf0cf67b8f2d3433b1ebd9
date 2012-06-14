@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//+ww\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-06-14T12:11:50Z",
+      "side": 1,
+      "message": "Please fix whitespace?",
+      "revId": "fb442ed4055b3c88fecf0cf67b8f2d3433b1ebd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//+ws\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-06-14T12:11:50Z",
+      "side": 1,
+      "message": "Please fix whitespace?",
+      "revId": "fb442ed4055b3c88fecf0cf67b8f2d3433b1ebd9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
