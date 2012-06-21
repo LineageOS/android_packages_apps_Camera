@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//9PA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-21T00:39:44Z",
+      "side": 1,
+      "message": "Ist hier nicht Gegenlicht gemeint?",
+      "revId": "eac5dc822305fc9cc82f40b822507b0c8cead83b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
