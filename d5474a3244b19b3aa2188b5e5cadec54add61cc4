@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//8qU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T21:49:31Z",
+      "side": 1,
+      "message": "moeten deze en onderstaande strings met hoofdletters?",
+      "revId": "d5474a3244b19b3aa2188b5e5cadec54add61cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8qY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T21:49:31Z",
+      "side": 1,
+      "message": "5 megapixels\nis dat niet beter?\n\nOnderaan wordt 5 MP gebruikt, dan zou deze afkorting hier misschien ook beter passen",
+      "revId": "d5474a3244b19b3aa2188b5e5cadec54add61cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8qA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T21:49:31Z",
+      "side": 1,
+      "message": "bovenaan heb je het juist veranderd naar \"standaardinstellingen\" ?",
+      "revId": "d5474a3244b19b3aa2188b5e5cadec54add61cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8os\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 211,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T21:49:31Z",
+      "side": 1,
+      "message": "timer \u003d zelfontspanner ??",
+      "revId": "d5474a3244b19b3aa2188b5e5cadec54add61cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8oo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T21:49:31Z",
+      "side": 1,
+      "message": "zelfontspanner?",
+      "revId": "d5474a3244b19b3aa2188b5e5cadec54add61cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8ok\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-23T21:49:31Z",
+      "side": 1,
+      "message": "zelfontspanner?",
+      "revId": "d5474a3244b19b3aa2188b5e5cadec54add61cc4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
