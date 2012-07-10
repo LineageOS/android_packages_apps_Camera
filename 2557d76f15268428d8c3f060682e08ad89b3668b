@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX////c\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-10T16:21:22Z",
+      "side": 1,
+      "message": "Fokus-Ton",
+      "revId": "2557d76f15268428d8c3f060682e08ad89b3668b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
