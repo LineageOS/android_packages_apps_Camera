@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX///VU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-13T00:01:33Z",
+      "side": 1,
+      "message": "Raak aan om scherp te stellen?",
+      "revId": "b7b5d9fdc250c78dc99505c1c610573bb41d95c8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
