@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVX///v8\u003d",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 396
+      },
+      "writtenOn": "2012-07-18T21:51:44Z",
+      "side": 1,
+      "message": "How about: \"D?wi?k ustawiania ostro?ci\"?",
+      "revId": "b2ae0b0592625cb379722f43f5bbae39774610a2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
