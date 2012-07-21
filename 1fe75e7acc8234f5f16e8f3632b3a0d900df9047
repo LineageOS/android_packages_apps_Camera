@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVX//+1Q\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 512,
+      "author": {
+        "id": 3177
+      },
+      "writtenOn": "2012-07-21T22:16:33Z",
+      "side": 1,
+      "message": "If you run the same params.set, you don\u0027t need to add another if, just add \"|| Util.useHTCCamMode()\" to the first if",
+      "revId": "1fe75e7acc8234f5f16e8f3632b3a0d900df9047",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
