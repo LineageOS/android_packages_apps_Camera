@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//808\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2101,
+      "author": {
+        "id": 523
+      },
+      "writtenOn": "2012-08-09T20:48:38Z",
+      "side": 1,
+      "message": "restartPreviewOnPictureSizeChange is not needed since it\u0027s already done here",
+      "revId": "6ff5983fbb66174ad3e930e271a9e008ad1d899c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
