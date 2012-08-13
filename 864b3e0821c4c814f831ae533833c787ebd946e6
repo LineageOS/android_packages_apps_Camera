@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//708\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 3835
+      },
+      "writtenOn": "2012-08-13T17:11:08Z",
+      "side": 1,
+      "message": "\"Rezhim ekspozamera\"",
+      "revId": "864b3e0821c4c814f831ae533833c787ebd946e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//704\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 3835
+      },
+      "writtenOn": "2012-08-13T17:11:08Z",
+      "side": 1,
+      "message": "\"Srednevzveshenniy\"",
+      "revId": "864b3e0821c4c814f831ae533833c787ebd946e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//700\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 3835
+      },
+      "writtenOn": "2012-08-13T17:11:08Z",
+      "side": 1,
+      "message": "\"Centrovzveshenniy\"",
+      "revId": "864b3e0821c4c814f831ae533833c787ebd946e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//70w\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 3835
+      },
+      "writtenOn": "2012-08-13T17:11:08Z",
+      "side": 1,
+      "message": "\"Tochechniy\"",
+      "revId": "864b3e0821c4c814f831ae533833c787ebd946e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//70s\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 3835
+      },
+      "writtenOn": "2012-08-13T17:11:08Z",
+      "side": 1,
+      "message": "\"Matrichniy\"",
+      "revId": "864b3e0821c4c814f831ae533833c787ebd946e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
