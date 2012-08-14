@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAV3///jo\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-08-14T23:20:32Z",
+      "side": 1,
+      "message": "I wonder what\u0027s that supposed to mean?",
+      "revId": "d8268b9e65e016fd1dd0c2640e982feee2920096",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAV3///jk\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-08-14T23:20:32Z",
+      "side": 1,
+      "message": "I think the proper word is \u0027mertsanie\u0027",
+      "revId": "d8268b9e65e016fd1dd0c2640e982feee2920096",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAV3///jg\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-08-14T23:20:32Z",
+      "side": 1,
+      "message": "moza_i_ka",
+      "revId": "d8268b9e65e016fd1dd0c2640e982feee2920096",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAV3///jc\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-08-14T23:20:32Z",
+      "side": 1,
+      "message": "what\u0027s ASD?",
+      "revId": "d8268b9e65e016fd1dd0c2640e982feee2920096",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAV3///jY\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-08-14T23:20:32Z",
+      "side": 1,
+      "message": "AR?",
+      "revId": "d8268b9e65e016fd1dd0c2640e982feee2920096",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
