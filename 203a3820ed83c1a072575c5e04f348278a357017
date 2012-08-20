@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWX//+3w\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 3835
+      },
+      "writtenOn": "2012-08-20T14:42:49Z",
+      "side": 1,
+      "message": "\"Ustanovka dlitelnosti blokirovki focusa nazhatiem na ekran\".",
+      "revId": "203a3820ed83c1a072575c5e04f348278a357017",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
