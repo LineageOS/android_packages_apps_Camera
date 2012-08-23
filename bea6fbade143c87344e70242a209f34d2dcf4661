@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWX//+Ag\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2012-08-23T01:41:39Z",
+      "side": 1,
+      "message": "hmm... Fixe, Manuel ?",
+      "revId": "bea6fbade143c87344e70242a209f34d2dcf4661",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWX//+Ac\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2012-08-23T01:41:39Z",
+      "side": 1,
+      "message": "Focus continu ou Image continu(e) ... Bizarre, ce n\u0027est pas pour le zoom cette option ?",
+      "revId": "bea6fbade143c87344e70242a209f34d2dcf4661",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWX//+Ak\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2012-08-23T01:41:39Z",
+      "side": 1,
+      "message": "Focus :\ndans la photographie, il est synonyme de mise au point\n\nhttp://fr.wikipedia.org/wiki/Focus",
+      "revId": "bea6fbade143c87344e70242a209f34d2dcf4661",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWX//+AY\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2012-08-23T01:41:39Z",
+      "side": 1,
+      "message": "Timer mode entries ?",
+      "revId": "bea6fbade143c87344e70242a209f34d2dcf4661",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
