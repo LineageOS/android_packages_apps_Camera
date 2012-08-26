@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAW3///4k\u003d",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2012-08-26T20:31:16Z",
+      "side": 1,
+      "message": "E\u0027 riportata come  Do not translate.",
+      "revId": "f4f8d8356696b1f3cc147fc2e6c945dac2f05824",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAW3///4c\u003d",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2012-08-26T20:31:16Z",
+      "side": 1,
+      "message": "Non è riportato come Do not translate ma credo sia usata anch\u0027essa per definire lo stato dell\u0027 opzione. Non dovrebbe essere tradotta.\nDa notare che è settato \"auto\" in minuscolo.",
+      "revId": "f4f8d8356696b1f3cc147fc2e6c945dac2f05824",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
