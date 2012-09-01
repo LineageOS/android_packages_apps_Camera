@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXH///Qo\u003d",
+        "filename": "src/com/android/camera/PanoramaActivity.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 357,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2012-09-01T03:55:48Z",
+      "side": 1,
+      "message": "whitespace problem",
+      "revId": "63e807a8376e2911ba334c115f28dc31177bb139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXH///Qg\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1081,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2012-09-01T03:55:48Z",
+      "side": 1,
+      "message": "whitespace problems",
+      "revId": "63e807a8376e2911ba334c115f28dc31177bb139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
