@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXX//+j0\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2170,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2012-09-12T19:20:36Z",
+      "side": 1,
+      "message": "what is the //Integer.parseInt comment doing here?  can it not be removed?",
+      "revId": "ed1d6c54bdacba12e8f7f8acf63e01146037b0ce",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
