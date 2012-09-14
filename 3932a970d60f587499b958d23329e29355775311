@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX///os\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 4457
+      },
+      "writtenOn": "2012-09-14T08:47:16Z",
+      "side": 1,
+      "message": "Perhaps \"Luchsee\" would reflect better that it\u0027s highest value.\nSince literal translation of \"Super\" is \"Sverkh\" and it isn\u0027t used in this context in Russian. And it\u0027s not obious which is better \"Otlichnoe\" or \"Vysokoe\".",
+      "revId": "3932a970d60f587499b958d23329e29355775311",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
