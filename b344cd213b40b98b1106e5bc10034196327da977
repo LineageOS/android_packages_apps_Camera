@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX///FI\u003d",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 4359
+      },
+      "writtenOn": "2012-09-15T23:41:05Z",
+      "side": 1,
+      "message": "From the source code, it use 100% to compress picture. JPEG 100% mean \"Wu Sun\"",
+      "revId": "b344cd213b40b98b1106e5bc10034196327da977",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
