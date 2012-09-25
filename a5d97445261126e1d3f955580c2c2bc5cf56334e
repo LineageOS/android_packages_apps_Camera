@@ -16,6 +16,91 @@
       "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8dQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-09-25T17:50:06Z",
+      "side": 1,
+      "message": "Ich finde \"Verschluss-Ton\" besser. Ist meiner Meinung nach näher am originalen \"shutter sound\"",
+      "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8dM\u003d",
+        "filename": "res/xml/camera_preferences.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-09-25T17:50:06Z",
+      "side": 1,
+      "message": "Bitte keine Tabs!",
+      "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8dI\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1352,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-09-25T17:50:06Z",
+      "side": 1,
+      "message": "Bitte keine Tabs!",
+      "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8dE\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-09-25T17:50:06Z",
+      "side": 1,
+      "message": "Bitte keine Tabs!",
+      "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8dA\u003d",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 245,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-09-25T17:50:06Z",
+      "side": 1,
+      "message": "Bitte keine Tabs!",
+      "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
