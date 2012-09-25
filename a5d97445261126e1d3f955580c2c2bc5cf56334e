@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAYX//8c0\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-09-25T17:59:08Z",
+      "side": 1,
+      "message": "I think it\u0027s not legal in some countries to turn the shutter sound off. So it\u0027s better to let it default to \u0027on\u0027 !",
+      "revId": "a5d97445261126e1d3f955580c2c2bc5cf56334e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAYX//8dM\u003d",
         "filename": "res/xml/camera_preferences.xml",
         "patchSetId": 1
