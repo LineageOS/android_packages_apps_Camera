@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX//8O8\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1324,
+      "author": {
+        "id": 4548
+      },
+      "writtenOn": "2012-09-26T12:28:45Z",
+      "side": 1,
+      "message": "I patched no sound myself awhile ago, if I recall correctly to stop the actual sound of the camera I had to pass in a null shuttercallback too. Running SGS2.",
+      "revId": "b41e22d92df0950a1c1f0186ee8a435b81be7a2f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8PE\u003d",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 1353,
+      "author": {
+        "id": 4548
+      },
+      "writtenOn": "2012-09-26T12:28:45Z",
+      "side": 1,
+      "message": "Shouldn\u0027t we be checking the actual config state? I don\u0027t see how this could ever be true. \"on\" could be replaced with the const instead of using a bareword?",
+      "revId": "b41e22d92df0950a1c1f0186ee8a435b81be7a2f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
