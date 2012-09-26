@@ -16,6 +16,24 @@
       "revId": "cc5a2d105a3135f73edebb1a9f730c7c6a1d464a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYX//8Pk\u003d",
+        "filename": "res/xml/camera_preferences.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 3081
+      },
+      "writtenOn": "2012-09-26T11:36:04Z",
+      "side": 1,
+      "message": "Sorry, yes I\u0027ll fix it.",
+      "parentUuid": "AAAAYX//8QQ\u003d",
+      "revId": "cc5a2d105a3135f73edebb1a9f730c7c6a1d464a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
