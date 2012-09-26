@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX//8QQ\u003d",
+        "filename": "res/xml/camera_preferences.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 56
+      },
+      "writtenOn": "2012-09-26T11:16:35Z",
+      "side": 1,
+      "message": "shouldn\u0027t this be named \"pref_camera_sound_key\" ??",
+      "revId": "cc5a2d105a3135f73edebb1a9f730c7c6a1d464a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
