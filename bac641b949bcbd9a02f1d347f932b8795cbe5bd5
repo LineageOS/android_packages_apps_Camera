@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAY3///rE\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-07T14:54:34Z",
+      "side": 1,
+      "message": "duplicate",
+      "revId": "bac641b949bcbd9a02f1d347f932b8795cbe5bd5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///rA\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-07T14:54:34Z",
+      "side": 1,
+      "message": "duplicate",
+      "revId": "bac641b949bcbd9a02f1d347f932b8795cbe5bd5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///q8\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-07T14:54:34Z",
+      "side": 1,
+      "message": "maybe the duplicate was supposed to be this ..",
+      "revId": "bac641b949bcbd9a02f1d347f932b8795cbe5bd5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///q4\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-07T14:54:34Z",
+      "side": 1,
+      "message": "... and this one?",
+      "revId": "bac641b949bcbd9a02f1d347f932b8795cbe5bd5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAY3///qw\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-10-07T14:54:34Z",
+      "side": 1,
+      "message": "the other 2 new entry is missing?",
+      "revId": "bac641b949bcbd9a02f1d347f932b8795cbe5bd5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
