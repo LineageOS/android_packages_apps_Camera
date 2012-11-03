@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//8D0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-03T00:59:08Z",
+      "side": 1,
+      "message": "\"Centrum gewogen\" wordt door bv. canon gebruikt",
+      "revId": "436e9512e34de2a6674666b7d6e0df9bac12d9e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//8Dw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-03T00:59:08Z",
+      "side": 1,
+      "message": "Meervlaksmeting",
+      "revId": "436e9512e34de2a6674666b7d6e0df9bac12d9e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//8Do\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-03T00:59:08Z",
+      "side": 1,
+      "message": "Rode-ogenreductie",
+      "revId": "436e9512e34de2a6674666b7d6e0df9bac12d9e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//8Dc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-03T00:59:08Z",
+      "side": 1,
+      "message": "Monochroom?",
+      "revId": "436e9512e34de2a6674666b7d6e0df9bac12d9e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaH//8DY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 180,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-11-03T00:59:08Z",
+      "side": 1,
+      "message": "Past denk ik niet",
+      "revId": "436e9512e34de2a6674666b7d6e0df9bac12d9e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
