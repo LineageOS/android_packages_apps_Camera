@@ -2,6 +2,57 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAaX///4o\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "Dit zou je ook anders kunnen vertalen:\n\n- Lichtmeting",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4k\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "\"banding\" is nog steeds vrij engels.\nIets met \"strepen\" moet het eigenlijk zijn.\n\n- Anti-strepen",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4c\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "Photopshop doet het zo\n\n- Solarisatie",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAaH//788\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -13,6 +64,125 @@
       "writtenOn": "2012-11-03T03:25:42Z",
       "side": 1,
       "message": "Voor zover dit een woord is",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4g\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 180,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "Photoshop gebruikt in het Nederlands: Waarden beperken\n\nMaar aangezien ik het haat om Photshop in het NL te gebruiken, vind ik dit Posteriseren ook wel ok eigenlijk.",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4U\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 191,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "ASD \u003d automatic scene detection?\n\nDan zou hier ook wel \"Automatisch\" mogen staan vind ik.\n\nIk gebruik CM10 waar nog niet alle opties van de camera vertaald zijn, maar dit staat er al wel!\n\n- Automatisch",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4Q\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "Je bent al modi aan het kiezen dus \"modus\" hoeft er niet steeds achter te staan.\n\n- Portret",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4M\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "- Landschap",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4I\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "- Nacht",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4E\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "- Stabiele foto\n\nof \n\n- Stabiel",
+      "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAaX///4A\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-03T18:33:39Z",
+      "side": 1,
+      "message": "Hier gaat iets niet goed, er zijn 2 opties die door elkaar staan.\n\n\u003c!-- Settings screen, Timer mode entries --\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_0\"\u003eUit\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_10\"\u003e10 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_20\"\u003e20 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_30\"\u003e30 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_40\"\u003e40 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_50\"\u003e50 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_timer_entry_60\"\u003e60 sec.\u003c/string\u003e\n\n\n\u003c!-- Settings screen, Touch focus duration --\u003e\n\u003cstring name\u003d\"pref_camera_focus_title\"\u003eDuur aanraakfocus\u003c/string\u003e\n206\t    \u003cstring name\u003d\"pref_camera_focus_summary\"\u003eKies duur voor aanraakfocus\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_focus_entry_10\"\u003e10 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_focus_entry_15\"\u003e15 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_focus_entry_20\"\u003e20 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_focus_entry_30\"\u003e30 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_focus_entry_40\"\u003e40 sec.\u003c/string\u003e\n\u003cstring name\u003d\"pref_camera_focus_entry_infinit\"\u003eOneindig\u003c/string\u003e",
       "revId": "fa1b0e3c5c92a7d89afc7a8bad5f4ec572a8d280",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
