@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//+hs\u003d",
+        "filename": "src/com/android/camera/ActivityBase.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 336,
+      "author": {
+        "id": 2874
+      },
+      "writtenOn": "2012-11-07T18:50:04Z",
+      "side": 1,
+      "message": "Catching general exceptions are bad, only catch what you need.",
+      "revId": "1988c7d1873d432d3b816417d2fab6995e73aeb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
