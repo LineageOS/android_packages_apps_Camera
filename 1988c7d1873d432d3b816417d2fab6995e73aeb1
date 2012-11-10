@@ -16,6 +16,40 @@
       "revId": "1988c7d1873d432d3b816417d2fab6995e73aeb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//91c\u003d",
+        "filename": "src/com/android/camera/Storage.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2012-11-10T10:41:37Z",
+      "side": 1,
+      "message": "Static member vars should start with lowercase \"s\".",
+      "revId": "1988c7d1873d432d3b816417d2fab6995e73aeb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//91Y\u003d",
+        "filename": "src/com/android/camera/VideoCamera.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 640,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2012-11-10T10:41:37Z",
+      "side": 1,
+      "message": "Calling a static method on a class and passing it\u0027s own static member into it is pretty ugly.",
+      "revId": "1988c7d1873d432d3b816417d2fab6995e73aeb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
