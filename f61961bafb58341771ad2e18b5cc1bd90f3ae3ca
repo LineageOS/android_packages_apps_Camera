@@ -2,6 +2,176 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAbH//8rw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Warum änderst du eine \"offizielle\" Übersetzung?",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8ro\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Typo \"nicht\"",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rk\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "\"SD-Karte\" is richtig",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Würde ich auch nicht ändern",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Würde ich auch nicht ändern",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Würde ich auch nicht ändern",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Würde ich auch nicht ändern",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Würde ich auch nicht ändern",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Berühren, um...",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Finde Originalübersetzung besser",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAbH//8sY\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -64,6 +234,24 @@
       "writtenOn": "2012-12-21T23:13:33Z",
       "side": 1,
       "message": "Sollte das nicht auch groß geschrieben werden?",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8rA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2012-12-21T23:26:04Z",
+      "side": 1,
+      "message": "Es sind Adjektive, aber ich würde Sie auch groß schreiben, weil sie ja in keinem Satz vorkommen, sondern als einzelnes Wort auftreten.",
+      "parentUuid": "AAAAbH//8sQ\u003d",
       "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
