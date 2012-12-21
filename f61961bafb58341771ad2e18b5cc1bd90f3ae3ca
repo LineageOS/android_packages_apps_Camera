@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbH//8sY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-12-21T23:13:33Z",
+      "side": 1,
+      "message": "I think this string is not translatable",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8sI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-12-21T23:13:33Z",
+      "side": 1,
+      "message": "Bin mir nicht sicher was damit gemeint ist aber evtl. Monochrom?",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8sM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-12-21T23:13:33Z",
+      "side": 1,
+      "message": "Aquarell?",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8sQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-12-21T23:13:33Z",
+      "side": 1,
+      "message": "Sollte das nicht auch groß geschrieben werden?",
+      "revId": "f61961bafb58341771ad2e18b5cc1bd90f3ae3ca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
