@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAbH//8iQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-12-22T05:24:07Z",
+      "side": 1,
+      "message": "Heb liever niet zo\u0027n lange string (geen idee of dit niet past hoor)",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAbH//8ik\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -13,6 +30,23 @@
       "writtenOn": "2012-12-22T05:19:41Z",
       "side": 1,
       "message": "geen hoofdletters gebruiken midden in een zin",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8iU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-12-22T05:24:07Z",
+      "side": 1,
+      "message": "- Camera (met hoofdletter) verwijst naar de app Camera. Camera (zonder hoofdletter) verwijst naar het hardware-onderdeel. Deze string verwijst naar het hardware-onderdeel (vaak zijn er geen drivers/HAL)\n- De \"Kan geen...\u0027-constructie wordt heel vaak gebruikt in AOSP en ik heb liever dat dat blijft staan",
       "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -36,6 +70,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAbH//8iM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-12-22T05:24:07Z",
+      "side": 1,
+      "message": "Deze foutmelding wordt getoond als er geen opslagmedium beschikbaar is. Dan is het logisch om het te koppelen i.p.v. het te ontkoppelen.",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAbH//8ig\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -53,6 +104,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAbH//8iI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-12-22T05:24:07Z",
+      "side": 1,
+      "message": "Android 4.0+ is niet alleen geschikt voor telefoons, maar ook voor telefoon/tablet-combinaties, tablets en het wordt ook toegepast in camera\u0027s. Meestal wordt \u0027apparaat\u0027 gebruikt, maar ik vind dat dit de string onnodig lang maakt.",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAbH//8ic\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -64,6 +132,23 @@
       "writtenOn": "2012-12-22T05:19:41Z",
       "side": 1,
       "message": "camrecorder is geen bestaand woord",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8iE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-12-22T05:24:07Z",
+      "side": 1,
+      "message": "http://vandale.nl/opzoeken?pattern\u003dcamcorder\u0026lang\u003dnn\nhttp://vandale.nl/opzoeken?pattern\u003dcamrecorder\u0026lang\u003dnn\n\nCamcorder is een gewoon Nederlands woord.",
       "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
