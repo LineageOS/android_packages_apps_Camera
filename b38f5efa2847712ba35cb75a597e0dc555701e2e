@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbH//8ik\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-22T05:19:41Z",
+      "side": 1,
+      "message": "geen hoofdletters gebruiken midden in een zin",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8io\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-22T05:19:41Z",
+      "side": 1,
+      "message": "\"Please mount USB storage before using the camera.\"\nMount \u003d koppelen",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8ig\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-22T05:19:41Z",
+      "side": 1,
+      "message": "apparaat is niet altijd een telefoon",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbH//8ic\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-22T05:19:41Z",
+      "side": 1,
+      "message": "camrecorder is geen bestaand woord",
+      "revId": "b38f5efa2847712ba35cb75a597e0dc555701e2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
