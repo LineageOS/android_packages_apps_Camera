@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbn///BE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-12-29T14:04:28Z",
+      "side": 1,
+      "message": "Typo.",
+      "revId": "0482aa914787200be3430d9f20f7fe7d0b7d0ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn///A8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-12-29T14:04:28Z",
+      "side": 1,
+      "message": "Ich würde es bei \u0027Megapixel\u0027 belassen. Das ist zwar im Menü leicht abgeschnitten, sieht aber in der Liste viel besser aus.",
+      "revId": "0482aa914787200be3430d9f20f7fe7d0b7d0ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn///A4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-12-29T14:04:28Z",
+      "side": 1,
+      "message": "Photospheremodus sieht wirklich komisch aus. IMHO sollten die Bindestriche wieder rein.",
+      "revId": "0482aa914787200be3430d9f20f7fe7d0b7d0ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn///A0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-12-29T14:04:28Z",
+      "side": 1,
+      "message": "\u0027Reihenaufnahme\u0027?",
+      "revId": "0482aa914787200be3430d9f20f7fe7d0b7d0ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn///Aw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 201,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2012-12-29T14:04:28Z",
+      "side": 1,
+      "message": "\u0027Deaktiviert\u0027?",
+      "revId": "0482aa914787200be3430d9f20f7fe7d0b7d0ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
