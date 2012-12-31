@@ -1,0 +1,174 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAbn//+WA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 182,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "Aan/uit-knop\n\n(anders te lang)",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+V0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "Dit past niet in beeld, waardoor je geen verschil ziet tussen Automatisch en Automatisch (HJR)\n\n- Auto (HJR)",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+V8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "Normaal",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+Vw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "Negatief",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+Vo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 207,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "Reliëf",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+Vk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "Schets",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+Vg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "5 foto\\\u0027s",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+Vc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "10 foto\\\u0027s",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+VY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "15 foto\\\u0027s",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAbn//+VU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-12-31T08:09:03Z",
+      "side": 1,
+      "message": "20 foto\\\u0027s",
+      "revId": "4c2e2a0f2f7095d51d2794079474a1e510d32e7a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
