@@ -70,6 +70,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcH//++E\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 5368
+      },
+      "writtenOn": "2013-01-05T00:20:33Z",
+      "side": 1,
+      "message": "Alternative: Serienaufnahme",
+      "parentUuid": "AAAAbn///A0\u003d",
+      "revId": "0482aa914787200be3430d9f20f7fe7d0b7d0ac2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAbn///Aw\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 2
