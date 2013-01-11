@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+g4\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-11T23:45:36Z",
+      "side": 1,
+      "message": "Je sais pas pourquoi je l\u0027ai mis au féminin, je corrige.",
+      "parentUuid": "AAAAcn//+j0\u003d",
+      "revId": "38e5e333c105107034228d762dad925b3544ac61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//+jw\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-01-11T20:14:39Z",
       "side": 1,
       "message": "continu*?",
+      "revId": "38e5e333c105107034228d762dad925b3544ac61",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+g8\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-11T23:45:36Z",
+      "side": 1,
+      "message": "Exact",
+      "parentUuid": "AAAAcn//+jw\u003d",
       "revId": "38e5e333c105107034228d762dad925b3544ac61",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
