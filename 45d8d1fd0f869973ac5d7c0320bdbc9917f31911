@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//+C8\u003d",
+        "filename": "src/com/android/camera/ActivityBase.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-13T03:34:24Z",
+      "side": 1,
+      "message": "static field should have prefix \"s\", not \"m\". public field also not good, implement setFocusTime and getFocusTime methods and use them if they are needed outside of the class.",
+      "revId": "45d8d1fd0f869973ac5d7c0320bdbc9917f31911",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
