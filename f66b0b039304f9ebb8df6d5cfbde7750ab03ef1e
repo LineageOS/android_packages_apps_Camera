@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//9bE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-14T14:38:59Z",
+      "side": 1,
+      "message": "findet ihr die Übersetzung passend? Die meisten Kameras unterscheiden nicht zwischen diesen beiden Arten der Gesichtserkennung.",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9a8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-14T14:38:59Z",
+      "side": 1,
+      "message": "Vorschläge? :)",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9a4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-14T14:38:59Z",
+      "side": 1,
+      "message": "Im nächsten Patchset. :)",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
