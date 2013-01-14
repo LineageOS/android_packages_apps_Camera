@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//9hc\u003d",
+        "filename": "src/com/android/camera/FocusOverlayManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-14T05:31:57Z",
+      "side": 1,
+      "message": "3000 to constant like RESET_TOUCH_FOCUS_DELAY_DEFAULT",
+      "revId": "3c6a93efefe1324ad6602c480cf5a61faee48d3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9hg\u003d",
+        "filename": "src/com/android/camera/FocusOverlayManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 258,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-14T05:31:57Z",
+      "side": 1,
+      "message": "String? Do it int!",
+      "revId": "3c6a93efefe1324ad6602c480cf5a61faee48d3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9hk\u003d",
+        "filename": "src/com/android/camera/FocusOverlayManager.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 260,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-14T05:31:57Z",
+      "side": 1,
+      "message": "no need return for void function",
+      "revId": "3c6a93efefe1324ad6602c480cf5a61faee48d3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9hU\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 2054,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-14T05:31:57Z",
+      "side": 1,
+      "message": "Seems like a duplicate code, propose to make a function with index arg",
+      "revId": "3c6a93efefe1324ad6602c480cf5a61faee48d3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9hM\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 2091,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-14T05:31:57Z",
+      "side": 1,
+      "message": "duplicate code should be like this:\n\u0000case KeyEvent.KEYCODE_VOLUME_UP:\ncase KeyEvent.KEYCODE_VOLUME_DOWN:\n     if (mParameters.isZoomSupported() \u0026\u0026 mZoomRenderer !\u003d null) {\n          return true;\n     }\n     break;",
+      "revId": "3c6a93efefe1324ad6602c480cf5a61faee48d3f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
