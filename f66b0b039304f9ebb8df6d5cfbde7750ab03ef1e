@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//9Yw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-14T16:11:27Z",
+      "side": 1,
+      "message": "Der fragliche String wird in einem Dialog angezeigt. Dort ist der Punkt doch ok?",
+      "parentUuid": "AAAAcn//9ZA\u003d",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//9bE\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
@@ -101,6 +119,24 @@
       "writtenOn": "2013-01-14T14:38:59Z",
       "side": 1,
       "message": "Vorschläge? :)",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9Ys\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-14T16:11:27Z",
+      "side": 1,
+      "message": "Protrait finde ich nicht gut :-P Ich würd\u0027s auch zusammenschreiben: \u0027Nachtporträt\u0027",
+      "parentUuid": "AAAAcn//9a8\u003d",
       "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
