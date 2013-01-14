@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//9ZA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-14T16:04:05Z",
+      "side": 1,
+      "message": "Mea Culpa. Im nächsten PS ist der \".\" weg.",
+      "parentUuid": "AAAAcn//9aQ\u003d",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//9bE\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
@@ -48,6 +66,24 @@
       "side": 1,
       "message": "Ich kenne jetzt den Unterschied zwischen den beiden Modi nicht, aber wie wäre es mit \"Gesichter bevorzugen\"?",
       "parentUuid": "AAAAcn//9bE\u003d",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9Y8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-14T16:04:05Z",
+      "side": 1,
+      "message": "finde ich auch gut. Der Unterschied soll sein, dass bei Gesichtserkennung ein Gesicht erkannt und fokussiert wird und bei \"gface priority\" mehrere Gesichter erkannt und verfolgt werden.",
+      "parentUuid": "AAAAcn//9aU\u003d",
       "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -99,6 +135,24 @@
       "writtenOn": "2013-01-14T15:14:53Z",
       "side": 1,
       "message": "Ist das beim fotografieren ein gängiger Begriff?\r\nAnsonsten hätte ich es mit Skizze übersetzt.",
+      "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9Y4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-14T16:04:05Z",
+      "side": 1,
+      "message": "Im nächsten PS. :)",
+      "parentUuid": "AAAAcn//9aY\u003d",
       "revId": "f66b0b039304f9ebb8df6d5cfbde7750ab03ef1e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
