@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//88Y\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 2410,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-15T19:53:31Z",
+      "side": 1,
+      "message": "Suggest to mPreference.getInt(CameraSettings.KEY_FOCUS_TIME, CAMERA_FOCUS_DEFAULT)\n\nCAMERA_FOCUS_DEFAULT - create static constant, don\u0027t store it in preference\n\n\"1000 *\" - magic, store in CameraSettings.KEY_FOCUS_TIME value * DateUtils.SECOND_IN_MILLIS if needed (if 1000 is second in millis, if not - create static constant)\n\ngeneral rule - no magic in the code, thank you \u003d)",
+      "revId": "5a42221b52d1d9380ad32304bbce22150f969938",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
