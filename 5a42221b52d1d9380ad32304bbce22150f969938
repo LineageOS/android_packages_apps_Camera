@@ -16,6 +16,24 @@
       "revId": "5a42221b52d1d9380ad32304bbce22150f969938",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8q0\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 2410,
+      "author": {
+        "id": 401
+      },
+      "writtenOn": "2013-01-16T11:39:06Z",
+      "side": 1,
+      "message": "This won\u0027t really work. Leaving the magic out is one thing, but the value needs to be stored at least originally as a string as that is what is expected in camera_preferences.xml for the default value. Might as well also read it from the pref string here too, no reason to add additional variables for the same thing.",
+      "parentUuid": "AAAAcn//88Y\u003d",
+      "revId": "5a42221b52d1d9380ad32304bbce22150f969938",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
