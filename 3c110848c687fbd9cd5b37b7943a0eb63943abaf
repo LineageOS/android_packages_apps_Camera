@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//8bw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-17T16:25:05Z",
+      "side": 1,
+      "message": "Diese Änderung gefällt mir irgendwie nicht wirklich. Es passt dann zwar in den Button rein, dafür sieht\u0027s in der Liste komisch aus.\n\nAndere Meinungen?",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8bs\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-17T16:25:05Z",
+      "side": 1,
+      "message": "Vorschlag:\n\nVideo-Schnappschüsse sind bei Verwendung von Spezialeffekten nicht möglich.",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8bo\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-17T16:25:05Z",
+      "side": 1,
+      "message": "Photospheremodus sieht komisch aus. Ich würde da wahrscheinlich eher \u0027Zu Photosphere wechseln\u0027 schreiben.",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8bk\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-17T16:25:05Z",
+      "side": 1,
+      "message": "Ausgeschaltet fande ich besser als \u0027aus\u0027. \u0027Aus\u0027 ist eher umgangssprachlich.",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
