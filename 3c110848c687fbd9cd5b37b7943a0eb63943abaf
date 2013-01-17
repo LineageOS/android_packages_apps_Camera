@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//8Zs\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-17T20:49:00Z",
+      "side": 1,
+      "message": "Im orig. ist es 8M Pixel. Wäre das besser?",
+      "parentUuid": "AAAAcn//8bw\u003d",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//8bs\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2013-01-17T16:25:05Z",
       "side": 1,
       "message": "Vorschlag:\n\nVideo-Schnappschüsse sind bei Verwendung von Spezialeffekten nicht möglich.",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8Zk\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-17T20:49:00Z",
+      "side": 1,
+      "message": "Danke. Im nächsten PS.",
+      "parentUuid": "AAAAcn//8bs\u003d",
       "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//8Zg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-17T20:49:00Z",
+      "side": 1,
+      "message": "Noch ist es ja nicht relevant, da nicht in der CM Kamera App enthalten. Es sollte einheitlich zu den anderen \"Wechsel\"-Texten sein.\n\nVorschlag: \"Zum ...modus wechseln\" oder \"...modus\", d.h. ohne zum und wechseln.",
+      "parentUuid": "AAAAcn//8bo\u003d",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//8bk\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 5
@@ -64,6 +118,24 @@
       "writtenOn": "2013-01-17T16:25:05Z",
       "side": 1,
       "message": "Ausgeschaltet fande ich besser als \u0027aus\u0027. \u0027Aus\u0027 ist eher umgangssprachlich.",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8ZY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-17T20:49:00Z",
+      "side": 1,
+      "message": "Im nächsten PS.",
+      "parentUuid": "AAAAcn//8bk\u003d",
       "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
