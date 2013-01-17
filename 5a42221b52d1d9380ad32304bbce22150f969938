@@ -34,6 +34,24 @@
       "revId": "5a42221b52d1d9380ad32304bbce22150f969938",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8pQ\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 2410,
+      "author": {
+        "id": 5451
+      },
+      "writtenOn": "2013-01-17T00:13:25Z",
+      "side": 1,
+      "message": "Yep, looks like you are right, I thought mPreference is SharedPreference but it is not.",
+      "parentUuid": "AAAAcn//8q0\u003d",
+      "revId": "5a42221b52d1d9380ad32304bbce22150f969938",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
