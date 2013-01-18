@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//8JY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-18T14:20:21Z",
+      "side": 1,
+      "message": "Die lange Version Megapixel habe ich schon lange nicht mehr gesehen, z.B. bei Canon und Sony wird nahezu immer mit MP abgekürzt. Daher fand ich es besser, als das abgeschnittene Megapi...\"",
+      "parentUuid": "AAAAcn//8YM\u003d",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//8bs\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 5
@@ -137,6 +155,24 @@
       "side": 1,
       "message": "Ohne zum und wechseln ist auch ok, aber dann hast du das Denglish immer noch drin.",
       "parentUuid": "AAAAcn//8Zg\u003d",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//8JU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-18T14:20:21Z",
+      "side": 1,
+      "message": "Photosphere ist der Eigenname dieses neuen 360° Panoramas. Da Bindestriche unerwünscht sind fällt mir nichts anderes ein. :(",
+      "parentUuid": "AAAAcn//8YI\u003d",
       "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
