@@ -73,6 +73,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//7qs\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-19T20:08:04Z",
+      "side": 1,
+      "message": "Stichprobe:\nhttp://www.saturn.de/mcs/productlist/Digitalkameras,48352,241272.html?langId\u003d-3\nhttp://www.mediamarkt.de/mcs/productlist/Digitalkameras,48353,286653.html?langId\u003d-3\n\n(ist wahrscheinlich eh der gleiche Shop)\n\nhttp://www.promarkt.de/Foto-Digitalkameras/4XysFFbXjYIAAAETSH0GdpsV.html\nhttp://www.medimax.de/produkte_neuheiten/fotografie/digitalkameras.html\n\nDie Stichprobe ist nicht ganz willkürlich: Ich hab mit Absicht die großen Ladenketten rausgesucht, da die meisten Leute dort Kameras kaufen werden.\n\nCanon verwendet in der Tat MP, Nikon aber z.B. nicht.",
+      "parentUuid": "AAAAcn//8JY\u003d",
+      "revId": "3c110848c687fbd9cd5b37b7943a0eb63943abaf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//8bs\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 5
