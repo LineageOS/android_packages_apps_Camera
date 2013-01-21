@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAc3///sk\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 2505
+      },
+      "writtenOn": "2013-01-21T16:01:14Z",
+      "side": 1,
+      "message": "Infini sans \"e\"\nc\u0027est le \"Temps\" d\u0027appui pour le focus qui est infini",
+      "revId": "59bab663369dd1747287b5ef67db188c11bc0311",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
