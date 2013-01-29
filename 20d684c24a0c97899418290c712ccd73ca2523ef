@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAc3//9IQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-29T15:39:52Z",
+      "side": 1,
+      "message": "Es müsste doch eher \u0027Keiner\u0027 heißen, oder?\n(mal davon abgesehen, dass dieser String scheinbar nirgendwo verwendet wird)",
+      "revId": "20d684c24a0c97899418290c712ccd73ca2523ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
