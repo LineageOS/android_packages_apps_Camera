@@ -52,6 +52,24 @@
       "revId": "20d684c24a0c97899418290c712ccd73ca2523ef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//8vs\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-30T17:03:22Z",
+      "side": 1,
+      "message": "Da man immer nur einen auswählen kann ist dein Vorschlag sehr gut. Es geht ja darum welcher Effekt angewandt bzw. ausgewählt ist.",
+      "parentUuid": "AAAAc3//8wA\u003d",
+      "revId": "20d684c24a0c97899418290c712ccd73ca2523ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
