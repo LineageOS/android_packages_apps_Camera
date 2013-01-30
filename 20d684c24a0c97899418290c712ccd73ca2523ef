@@ -34,6 +34,24 @@
       "revId": "20d684c24a0c97899418290c712ccd73ca2523ef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//8wA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 9
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-30T17:00:09Z",
+      "side": 1,
+      "message": "Wird immer angezeigt, wenn man das Menü öffnet. Werde es im nächsten PS ändern.\n\nIch frage mich gerade, da im Menü \"Videoeffekte \u0027keiner\u0027\" stehen würde, ob es dann nicht auch sinnvoll ist, die \"Titel\" im Singular zu schreiben, z.B. Videoeffekt.\n\nMan kann immer nur einen Effekt aktivieren, niemals mehrere zur selben Zeit. Betrifft auch Farbeffekte usw.\n\nWas denkt ihr?",
+      "parentUuid": "AAAAc3//8zY\u003d",
+      "revId": "20d684c24a0c97899418290c712ccd73ca2523ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
