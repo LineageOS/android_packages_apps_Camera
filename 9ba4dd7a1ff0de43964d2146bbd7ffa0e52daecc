@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX///jE\u003d",
+        "filename": "res/values/config.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-02-13T22:23:28Z",
+      "side": 1,
+      "message": "doWeReallyNeedThisHideouslyLongVariableName?",
+      "revId": "9ba4dd7a1ff0de43964d2146bbd7ffa0e52daecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX///jM\u003d",
+        "filename": "src/com/android/camera/VideoModule.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 2545,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-02-13T22:23:28Z",
+      "side": 1,
+      "message": "1) Code style dictates that there is no space between ( and content\n\n2) This does not only override pause check, but every other check as well",
+      "revId": "9ba4dd7a1ff0de43964d2146bbd7ffa0e52daecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
