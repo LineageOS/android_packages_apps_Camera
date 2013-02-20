@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//8mg\u003d",
+        "filename": "src/com/android/camera/HdrSoftware.rs",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 570
+      },
+      "writtenOn": "2013-02-20T18:22:32Z",
+      "side": 1,
+      "message": "Is gImageHeight Used?",
+      "revId": "d914a02b97ae15fcb573e07336e93873488d238d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
