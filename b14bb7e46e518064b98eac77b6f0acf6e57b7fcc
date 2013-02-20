@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//8tQ\u003d",
+        "filename": "src/com/android/camera/HdrSoftwareProcessor.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-02-20T14:17:28Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "b14bb7e46e518064b98eac77b6f0acf6e57b7fcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
