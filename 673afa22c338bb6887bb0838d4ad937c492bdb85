@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//7xI\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-23T00:55:49Z",
+      "side": 1,
+      "message": "Whiteboard? https://en.wikipedia.org/wiki/Whiteboard",
+      "revId": "673afa22c338bb6887bb0838d4ad937c492bdb85",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
