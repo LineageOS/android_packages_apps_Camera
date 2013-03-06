@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX///fw\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-03-06T18:02:51Z",
+      "side": 1,
+      "message": "Should be \"Neprerivnaya fokusirovka v video\" (same with the line above, there should be \"neprerivnaya fokusirovka\")",
+      "revId": "025d84344c331ee6c4f9ac29b90a3761604e4c3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///fs\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-03-06T18:02:51Z",
+      "side": 1,
+      "message": "Should be \"Giperfokal\u0027naya\", slovo \"rasstoyanie\" tut izlishne",
+      "revId": "025d84344c331ee6c4f9ac29b90a3761604e4c3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///fo\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-03-06T18:02:51Z",
+      "side": 1,
+      "message": "Should be \"Kontrovoy svet\"",
+      "revId": "025d84344c331ee6c4f9ac29b90a3761604e4c3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX///fk\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-03-06T18:02:51Z",
+      "side": 1,
+      "message": "Should be \"Portret c kontrovim svetom\"",
+      "revId": "025d84344c331ee6c4f9ac29b90a3761604e4c3d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
