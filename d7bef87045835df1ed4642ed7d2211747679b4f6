@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX///Wk\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-03-06T23:34:53Z",
+      "side": 1,
+      "message": "I\u0027m not sure that \"pizarra\" is better here.",
+      "revId": "d7bef87045835df1ed4642ed7d2211747679b4f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
