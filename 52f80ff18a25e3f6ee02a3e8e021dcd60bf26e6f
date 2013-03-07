@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX///P0\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-03-07T05:33:55Z",
+      "side": 1,
+      "message": "Let\u0027s go with \"pizarra\" ;)",
+      "revId": "52f80ff18a25e3f6ee02a3e8e021dcd60bf26e6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
