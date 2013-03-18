@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//6iY\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-03-18T15:04:48Z",
+      "side": 1,
+      "message": "Ne nravitsya mne eto \"HJR\". Chto ono znachit-to? (v gugle zabanili)",
+      "revId": "bf8530c9d115c2a6266e4694c4a8671b344798ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
