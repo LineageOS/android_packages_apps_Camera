@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//6dQ\u003d",
+        "filename": "res/values-pl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-03-18T18:25:07Z",
+      "side": 1,
+      "message": "przyciskiem zasilania ?\n\nsounds better for me",
+      "revId": "102a01d6c76ddc5a02f0520e533949e7cdfe1fda",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
