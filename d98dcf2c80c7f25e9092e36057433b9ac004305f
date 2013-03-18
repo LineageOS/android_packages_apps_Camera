@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeX//6ig\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 258,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-03-18T15:00:32Z",
+      "side": 1,
+      "message": "A pasztell -t 2 L-lel kell írni.",
+      "revId": "d98dcf2c80c7f25e9092e36057433b9ac004305f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
