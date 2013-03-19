@@ -16,6 +16,24 @@
       "revId": "bf8530c9d115c2a6266e4694c4a8671b344798ee",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//6QI\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 3077
+      },
+      "writtenOn": "2013-03-19T01:36:39Z",
+      "side": 1,
+      "message": "hand jitter reduction... bes smazivanija tipo",
+      "parentUuid": "AAAAeX//6iY\u003d",
+      "revId": "bf8530c9d115c2a6266e4694c4a8671b344798ee",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
