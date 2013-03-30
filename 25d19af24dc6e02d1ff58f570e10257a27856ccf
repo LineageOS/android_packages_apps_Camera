@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//104\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-03-30T22:50:51Z",
+      "side": 1,
+      "message": "I see in AOSP translation they translated shutter as sluiter, your thoughts?",
+      "parentUuid": "AAAAeX//174\u003d",
+      "revId": "25d19af24dc6e02d1ff58f570e10257a27856ccf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//17s\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 2
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//100\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-03-30T22:50:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//17s\u003d",
+      "revId": "25d19af24dc6e02d1ff58f570e10257a27856ccf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//17o\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 2
@@ -47,6 +83,24 @@
       "writtenOn": "2013-03-30T21:33:28Z",
       "side": 1,
       "message": "raak-fokus",
+      "revId": "25d19af24dc6e02d1ff58f570e10257a27856ccf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeX//10w\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-03-30T22:50:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAeX//17o\u003d",
       "revId": "25d19af24dc6e02d1ff58f570e10257a27856ccf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
