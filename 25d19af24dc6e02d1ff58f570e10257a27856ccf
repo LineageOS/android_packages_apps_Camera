@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAeX//1zE\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-03-30T22:57:46Z",
+      "side": 1,
+      "message": "Yes, sluiter is the correct term",
+      "parentUuid": "AAAAeX//104\u003d",
+      "revId": "25d19af24dc6e02d1ff58f570e10257a27856ccf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAeX//17s\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 2
