@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//9gY\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-07T23:07:02Z",
+      "side": 1,
+      "message": "@Jorge, here it is. Into untouchable code ;)",
+      "revId": "8f13912357ba28fbdc4afe81adaea2a35a53ca5a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
