@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//6qo\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 489,
+      "author": {
+        "id": 1381
+      },
+      "writtenOn": "2013-04-14T22:10:00Z",
+      "side": 1,
+      "message": "What was the reason for moving this down? It seems to be causing the crash.",
+      "revId": "d050f806d17b0f04ca090247f0be1cf7524abbdf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
