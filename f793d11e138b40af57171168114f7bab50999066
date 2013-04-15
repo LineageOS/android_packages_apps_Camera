@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//6XE\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-04-15T21:22:09Z",
+      "side": 1,
+      "message": "Convert tabs to spaces",
+      "revId": "f793d11e138b40af57171168114f7bab50999066",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//6XA\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-04-15T21:22:09Z",
+      "side": 1,
+      "message": "Convert tabs to spaces please",
+      "revId": "f793d11e138b40af57171168114f7bab50999066",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
