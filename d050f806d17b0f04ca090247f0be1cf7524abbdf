@@ -16,6 +16,24 @@
       "revId": "d050f806d17b0f04ca090247f0be1cf7524abbdf",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//6ik\u003d",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 489,
+      "author": {
+        "id": 401
+      },
+      "writtenOn": "2013-04-15T09:32:36Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "AAAAen//6qo\u003d",
+      "revId": "d050f806d17b0f04ca090247f0be1cf7524abbdf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
