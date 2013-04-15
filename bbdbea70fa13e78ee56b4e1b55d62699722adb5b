@@ -16,6 +16,24 @@
       "revId": "bbdbea70fa13e78ee56b4e1b55d62699722adb5b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//6bk\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1558
+      },
+      "writtenOn": "2013-04-15T18:55:37Z",
+      "side": 1,
+      "message": "ACK... subsequently adapting new rules... this is the \"old\" commit message, I hope all new commit messages will be ok",
+      "parentUuid": "AAAAen//6yI\u003d",
+      "revId": "bbdbea70fa13e78ee56b4e1b55d62699722adb5b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
