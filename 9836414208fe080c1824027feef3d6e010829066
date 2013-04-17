@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//54c\u003d",
+        "filename": "src/com/android/camera/ui/ZoomRenderer.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-04-17T03:19:20Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "9836414208fe080c1824027feef3d6e010829066",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
