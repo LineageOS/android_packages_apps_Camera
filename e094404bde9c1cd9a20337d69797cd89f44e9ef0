@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAen//3WQ\u003d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-04-22T16:46:07Z",
+      "side": 1,
+      "message": "Achtergrondverlichting is een term die gebruikt wordt om schermen te verlichten, maar deze optie gaat meer om de achtergrond die te licht is. Dit was \"Achtergrondlicht\", maar \"Tegenlicht\" is misschien beter.",
+      "revId": "e094404bde9c1cd9a20337d69797cd89f44e9ef0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAen//3Ww\u003d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-04-22T16:46:07Z",
+      "side": 1,
+      "message": "\")\" teveel\n\n- Portret met tegenlicht",
+      "revId": "e094404bde9c1cd9a20337d69797cd89f44e9ef0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
