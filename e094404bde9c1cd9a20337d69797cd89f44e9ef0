@@ -50,6 +50,24 @@
       "revId": "e094404bde9c1cd9a20337d69797cd89f44e9ef0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAe3///rk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-24T00:04:05Z",
+      "side": 1,
+      "message": "Done, maar dat moet in een aparte change.",
+      "parentUuid": "AAAAen//3F0\u003d",
+      "revId": "e094404bde9c1cd9a20337d69797cd89f44e9ef0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
