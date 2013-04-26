@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH///qI\u003d",
+        "filename": "res/values-nb/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 444
+      },
+      "writtenOn": "2013-04-26T21:52:59Z",
+      "side": 1,
+      "message": "Pastell",
+      "revId": "78b54715df300e0364498cb0722e019d37fd2a1b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
