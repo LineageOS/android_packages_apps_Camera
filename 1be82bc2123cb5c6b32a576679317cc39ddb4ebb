@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfH///ew\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-04-27T15:12:22Z",
+      "side": 1,
+      "message": "A. Togda +1 k \"avtospusku\".",
+      "parentUuid": "AAAAfH///fk\u003d",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfH///hk\u003d",
         "filename": "res/values-ru/cm_strings.xml",
         "patchSetId": 1
