@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH///eY\u003d",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-04-27T15:27:52Z",
+      "side": 1,
+      "message": "Added \"Cid\" (for deference to CyanogenMod), and \"Patata\" works now.",
+      "revId": "ffe09194f8830f168d9ae4717dd4e78db2225a63",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
