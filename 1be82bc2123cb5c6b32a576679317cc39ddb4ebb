@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH///hs\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2013-04-27T12:03:41Z",
+      "side": 1,
+      "message": "Pomogite perevesti po ludski \u003d)",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///hk\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2013-04-27T12:03:41Z",
+      "side": 1,
+      "message": "Ya ne uveren, stoit li perevodit\u0027 ili pisat\u0027 translitom kluchevje slova.",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///ho\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2013-04-27T12:03:41Z",
+      "side": 1,
+      "message": "I tut",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
