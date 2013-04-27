@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfH///gs\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-04-27T14:18:09Z",
+      "side": 1,
+      "message": "Nu pust\u0027 budet \"S\u0027emka golosom\"",
+      "parentUuid": "AAAAfH///hs\u003d",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfH///hk\u003d",
         "filename": "res/values-ru/cm_strings.xml",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfH///gk\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-04-27T14:18:09Z",
+      "side": 1,
+      "message": "Ya bi ubral slovo \"Cid\" i napisal \"proiznosya slova vrode \"Whisky\" ili \"Cheese\". A ih, dumayu, mozhno i perevesti na russkiy.",
+      "parentUuid": "AAAAfH///hk\u003d",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfH///ho\u003d",
         "filename": "res/values-ru/cm_strings.xml",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2013-04-27T12:03:41Z",
       "side": 1,
       "message": "I tut",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///gg\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-04-27T14:18:09Z",
+      "side": 1,
+      "message": "\"Vsegda ispolzovat\u0027 s\u0027emku golosom\", esli takoe vlezet. Tam limit na kolichestvo simvolov est\u0027?",
+      "parentUuid": "AAAAfH///ho\u003d",
       "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
