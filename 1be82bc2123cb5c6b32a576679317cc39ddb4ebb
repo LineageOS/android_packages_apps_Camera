@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfH///fk\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-04-27T14:46:31Z",
+      "side": 1,
+      "message": "Eto ne tl\u0027ko k s\u0027emke po golosovoy komande otnositsya, no i k s\u0027emke po taimeru. V fotoapparatah est\u0027 mehanizm \"Avtospusk\" - kak variant tozhe goditsya.",
+      "parentUuid": "AAAAfH///gs\u003d",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfH///hk\u003d",
         "filename": "res/values-ru/cm_strings.xml",
         "patchSetId": 1
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "Ya bi ubral slovo \"Cid\" i napisal \"proiznosya slova vrode \"Whisky\" ili \"Cheese\". A ih, dumayu, mozhno i perevesti na russkiy.",
       "parentUuid": "AAAAfH///hk\u003d",
+      "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///fY\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-04-27T14:46:31Z",
+      "side": 1,
+      "message": "Nado v \"polevih\" usloviyah oprobovat\u0027 budet li na \"Schi\" vmesto \"Cheese\" srabativat\u0027 i togda uzhe reshat\u0027.",
+      "parentUuid": "AAAAfH///gk\u003d",
       "revId": "1be82bc2123cb5c6b32a576679317cc39ddb4ebb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
