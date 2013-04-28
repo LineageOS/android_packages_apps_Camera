@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH///Rk\u003d",
+        "filename": "res/values-pl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2013-04-28T02:06:48Z",
+      "side": 1,
+      "message": "I suggest: \"Ci?g?y\"",
+      "revId": "a621bace009f615eca28da91b7a9301b7f513aeb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///Rg\u003d",
+        "filename": "res/values-pl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2013-04-28T02:06:48Z",
+      "side": 1,
+      "message": "\"Ci?g?y (wideo)\"",
+      "revId": "a621bace009f615eca28da91b7a9301b7f513aeb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///R8\u003d",
+        "filename": "res/values-pl/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 5637
+      },
+      "writtenOn": "2013-04-28T02:06:48Z",
+      "side": 1,
+      "message": "\"Portret nocny\" sounds better IMO",
+      "revId": "a621bace009f615eca28da91b7a9301b7f513aeb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
