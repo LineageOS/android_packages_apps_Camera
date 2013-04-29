@@ -16,6 +16,24 @@
       "revId": "75515253dc8cb945e078b87dcd03f2fc482d82ef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH//+uQ\u003d",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2013-04-29T08:03:46Z",
+      "side": 1,
+      "message": "A mne kajetsya, chto \"i\", v dannom sluchae, budet luchshe.",
+      "parentUuid": "AAAAfH//+80\u003d",
+      "revId": "75515253dc8cb945e078b87dcd03f2fc482d82ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
