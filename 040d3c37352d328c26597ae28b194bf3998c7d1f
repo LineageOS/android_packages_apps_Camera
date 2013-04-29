@@ -33,6 +33,24 @@
       "revId": "040d3c37352d328c26597ae28b194bf3998c7d1f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH//+i8\u003d",
+        "filename": "res/values-hu/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-04-29T16:03:04Z",
+      "side": 1,
+      "message": "Please remove",
+      "parentUuid": "AAAAfH//+jk\u003d",
+      "revId": "040d3c37352d328c26597ae28b194bf3998c7d1f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
