@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX///yU\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-01T21:59:41Z",
+      "side": 1,
+      "message": "Au début j\u0027avais traduit bêtement \"fromage\" et je me suis dit c\u0027est quoi cette conn*** !!! En faite il faut bien laisser \"Cheese\" car le déclenchement se fait avec le mot \"Cheese\" si les gens disent \"ouistiti\" et bien ça marche pas :)",
+      "parentUuid": "AAAAfX///zU\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-05-01T21:32:13Z",
       "side": 1,
       "message": "Pas certain. Je vérifie plus tard.",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfX///yQ\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-01T21:59:41Z",
+      "side": 1,
+      "message": "Ici j\u0027ai réduit le titre parce qu\u0027il y a l\u0027explication juste en dessous",
+      "parentUuid": "AAAAfX///zQ\u003d",
       "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
