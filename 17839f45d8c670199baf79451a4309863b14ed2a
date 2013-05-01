@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX///wE\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-01T22:40:44Z",
+      "side": 1,
+      "message": "Donc je répète ma question en remettant en valeur le mot ajouter : pourquoi ne pas AJOUTER le classique \"ouistiti\" à cette liste ?",
+      "parentUuid": "AAAAfX///yU\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
