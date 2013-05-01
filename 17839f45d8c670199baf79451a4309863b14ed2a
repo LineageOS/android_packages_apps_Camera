@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfX///zU\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-01T21:32:13Z",
+      "side": 1,
+      "message": "Pourquoi ne pas *ajouter* le classique \"ouistiti\"?",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfX///zQ\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-01T21:32:13Z",
+      "side": 1,
+      "message": "Pas certain. Je vérifie plus tard.",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
