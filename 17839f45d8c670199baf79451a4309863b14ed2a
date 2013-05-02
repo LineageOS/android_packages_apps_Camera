@@ -163,6 +163,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX///oY\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-02T02:09:31Z",
+      "side": 1,
+      "message": "Ok, merci Andrew. Personnellement je ne connais que \"Cheese\" et \"Ouistiti\".",
+      "parentUuid": "AAAAfX///os\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
