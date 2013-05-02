@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfX///iI\u003d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-05-02T10:42:26Z",
+      "side": 1,
+      "message": "waarom niet \"sec.\" zoals hierboven?",
+      "revId": "49b992ed2bad239d488947969bc52354384009c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
