@@ -91,6 +91,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX///pg\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-02T01:31:20Z",
+      "side": 1,
+      "message": "@Léo, désolé j\u0027avais pas compris le commentaire.\nJe ne sais pas du tout si c\u0027est \"connecté\" à la reconnaissance vocal, si tel est le cas pourquoi pas",
+      "parentUuid": "AAAAfX///t8\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
