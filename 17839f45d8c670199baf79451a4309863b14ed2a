@@ -109,6 +109,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX///pQ\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-05-02T01:34:50Z",
+      "side": 1,
+      "message": "Je viens de jeter un œil sur les autres traductions, c\u0027est mitigé. Certains laissent comme tel, d\u0027autre ajoutent/modifient les valeurs.\nC\u0027est clair que ça pourrait être intéressant de rajouter \"Ouistiti\", et pourquoi pas d\u0027autres mots selon les préférences de chacun.. :-)",
+      "parentUuid": "AAAAfX///pg\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
