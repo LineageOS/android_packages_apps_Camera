@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX//+/Q\u003d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-05-04T04:02:26Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAfX///BU\u003d",
+      "revId": "49b992ed2bad239d488947969bc52354384009c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///iI\u003d",
         "filename": "res/values-nl/cm_strings.xml",
         "patchSetId": 1
@@ -119,6 +137,24 @@
       "side": 1,
       "message": "Dit zie je in een toast bij de eerste keer opstarten van de camera als hint, daarna nooit meer (tenzij je Data van de camera wist)\n\nhttps://plus.google.com/115049428938715274412/posts/9GjwLPnhLAk\n\nIk heb enkel de Engelse versie gevolgd voor wat betreft het uitroepteken.\n\n- Neem op afstand een foto door één van de volgende woorden te zeggen: \\\u0027Cid\\\u0027, \\\u0027Whisky\\\u0027 of natuurlijk \\\u0027Cheese\\\u0027!\n\nIk denk zelfs dat deze woorden kunnen worden vervangen voor Nederlandse woorden als je ook de Array die erbij hoort aanpast?\nhttp://review.cyanogenmod.org/#/c/35297/9/res/values/cm_arrays.xml\n\nMaar dit heb ik expres niet gedaan, omdat ik het niet zeker weet.",
       "parentUuid": "AAAAfX///fw\u003d",
+      "revId": "49b992ed2bad239d488947969bc52354384009c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfX//+/M\u003d",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-05-04T04:02:26Z",
+      "side": 1,
+      "message": "Lijkt mij van wel. Als spraak-naar-tekst ingesteld kan worden op het Nederlands, lijkt mij dat geen probleem. Je hoeft trouwen niet exact hetzelfde aantal items in de array hebben; daar hebben ze rekening mee gehouden.\n\nDie patch is niet echt gereviewd, dus ik kan niet zeggen dat de standaardvertalingen perfect zijn ;)",
+      "parentUuid": "AAAAfX///Bc\u003d",
       "revId": "49b992ed2bad239d488947969bc52354384009c2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
