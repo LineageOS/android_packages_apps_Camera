@@ -181,6 +181,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX//+rE\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-04T20:38:50Z",
+      "side": 1,
+      "message": "Je ne sais pas si \"Cheese\" sera reconnu en français.  Par contre \"Ouistiti\" est le mieux. Il y a également \"Cerise\" qui peut être ajouté en français.",
+      "parentUuid": "AAAAfX///oY\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
