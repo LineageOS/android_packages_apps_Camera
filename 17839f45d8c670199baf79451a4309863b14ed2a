@@ -217,6 +217,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfX//+gU\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-05T02:58:20Z",
+      "side": 1,
+      "message": "Pour le terme \"Cheese\" j\u0027ai essayé avec Google Now, c\u0027est la catastrophe... ça donne : chimie, this, Quinny ( marque de poussette canne O_o ). Je vais le remplacer par \"Ouistiti\" qui marche très bien avec Google Now et ajouter \"Cerise\"",
+      "parentUuid": "AAAAfX//+qE\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfX///zQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
@@ -246,6 +264,24 @@
       "side": 1,
       "message": "Ici j\u0027ai réduit le titre parce qu\u0027il y a l\u0027explication juste en dessous",
       "parentUuid": "AAAAfX///zQ\u003d",
+      "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfX//+gY\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-05-05T02:58:20Z",
+      "side": 1,
+      "message": "\"Délai avant focus\", c\u0027est plus précis",
+      "parentUuid": "AAAAfX///yQ\u003d",
       "revId": "17839f45d8c670199baf79451a4309863b14ed2a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
