@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfn///OM\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-08T21:31:14Z",
+      "side": 1,
+      "message": "On peut enlever whiskey, en français il ne sera jamais déclenché.",
+      "parentUuid": "AAAAfn///p8\u003d",
+      "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfn///pQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
@@ -107,6 +125,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfn///OE\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-08T21:31:14Z",
+      "side": 1,
+      "message": "Non plus. \"Déclenchement vocale\" ?",
+      "parentUuid": "AAAAfn///p0\u003d",
+      "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfn///p4\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
@@ -118,6 +154,23 @@
       "writtenOn": "2013-05-08T01:56:50Z",
       "side": 1,
       "message": "Ici idem, j\u0027ai pris note des remarques faites pour la branche \"cm-10.1\"",
+      "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfn///OA\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 5596
+      },
+      "writtenOn": "2013-05-08T21:31:14Z",
+      "side": 1,
+      "message": "bien sûr",
       "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
