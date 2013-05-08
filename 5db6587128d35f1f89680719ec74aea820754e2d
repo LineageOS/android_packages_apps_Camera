@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfn///QY\u003d",
+        "filename": "res/values-fr/cm_arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-08T20:14:40Z",
+      "side": 1,
+      "message": "Parfait !",
+      "parentUuid": "AAAAfn///p8\u003d",
+      "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfn///pQ\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfn///QU\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-08T20:14:40Z",
+      "side": 1,
+      "message": "OK",
+      "parentUuid": "AAAAfn///pQ\u003d",
+      "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfn///p0\u003d",
         "filename": "res/values-fr/cm_strings.xml",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2013-05-08T01:56:50Z",
       "side": 1,
       "message": "J\u0027ai trouvé plus \"parlant\" le terme \"Main-libre\" plutôt que \"Déclenchement différé\" comme dans la traduction de la branche \"cm-10.1\"",
+      "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfn///QQ\u003d",
+        "filename": "res/values-fr/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-05-08T20:14:40Z",
+      "side": 1,
+      "message": "Pas convaincu...",
+      "parentUuid": "AAAAfn///p0\u003d",
       "revId": "5db6587128d35f1f89680719ec74aea820754e2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
