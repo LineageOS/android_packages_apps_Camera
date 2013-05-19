@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "hjEs8qo",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-05-19T16:31:56Z",
+      "side": 1,
+      "message": "Comment \u003c-\u003e value mismatch? AFAICT, this change does exactly nothing so far ;)",
+      "revId": "cc760c22903715d80e36eb8601ba228049715705",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
