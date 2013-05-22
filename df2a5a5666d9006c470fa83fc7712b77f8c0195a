@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "iNpnJSQ",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-05-22T03:50:19Z",
+      "side": 1,
+      "message": "Sorry, typo in decimal comma.",
+      "revId": "df2a5a5666d9006c470fa83fc7712b77f8c0195a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "iNrAReM",
         "filename": "res/values-es/cm_strings.xml",
         "patchSetId": 1
