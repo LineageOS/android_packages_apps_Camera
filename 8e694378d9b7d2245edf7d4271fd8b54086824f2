@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iA8x1Qs",
+        "filename": "src/com/android/camera/PhotoController.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2013-05-25T07:49:00Z",
+      "side": 1,
+      "message": "got a NPE when start up, tested on crespo",
+      "revId": "8e694378d9b7d2245edf7d4271fd8b54086824f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
