@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iERIz1s",
+        "filename": "res/values-nl/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-05-26T04:14:14Z",
+      "side": 1,
+      "message": "In het Engels staat hier \u0027Voice\u0027 en dat heb ik hier vertaald als \u0027Stem\u0027. Alleen wordt in Android \u0027Voice search\u0027 vertaald als \u0027Spraakgestuurd zoeken\u0027.\n\nDus: \u0027Stem\u0027 of \u0027Spraak\u0027?",
+      "revId": "8fcc3f216d7d9711d7f9531eff42eb649588030d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
