@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iJAiobg",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-05-30T17:36:30Z",
+      "side": 1,
+      "message": "\"Dlitelnost\u0027 fokusa\"",
+      "revId": "10174ce29412fd2809826f781bc0e36725356841",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iLAlpcM",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-05-30T17:36:30Z",
+      "side": 1,
+      "message": "Nu, raz sokrashaem: tut mozhno sokratit\u0027 to odnogo slova \"Avtospusk\"",
+      "revId": "10174ce29412fd2809826f781bc0e36725356841",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
