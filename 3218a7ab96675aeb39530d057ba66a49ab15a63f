@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iAgmZWg",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-06-01T12:53:34Z",
+      "side": 1,
+      "message": "Mozhno prosto \"S\u0027emka kn. pitaniya\", zachem tak sil\u0027no sokraschat\u0027?",
+      "revId": "3218a7ab96675aeb39530d057ba66a49ab15a63f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iOgqESw",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-06-01T12:53:34Z",
+      "side": 1,
+      "message": "A zdes\u0027 luchshe sokratit\u0027 do \"Avtospusk vsegda\" ili t.p.",
+      "revId": "3218a7ab96675aeb39530d057ba66a49ab15a63f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
