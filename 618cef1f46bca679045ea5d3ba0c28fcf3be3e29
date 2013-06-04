@@ -1,0 +1,259 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iPyz8wg",
+        "filename": "res/xml/camera_preferences.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "IMHO this option can be killed. There\u0027s no harm done in always showing the GPS icon.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iNy4L.g",
+        "filename": "src/com/android/camera/CameraSettings.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 477,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "It doesn\u0027t matter in case the option is killed, but still:\n\nif (version \u003d\u003d 5) {",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iJzL13I",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Braces missing here (and below).",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iHzIA3U",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Braces should be on the same line.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iFzFP1k",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Indention of wrapped lines should be 8 spaces, not 4.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iDyha6o",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Why not import LocationManager?",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iBymp8E",
+        "filename": "src/com/android/camera/PhotoController.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "} else {",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iPyq04Q",
+        "filename": "src/com/android/camera/PhotoController.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Why not include this in the if...else chain?",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iNyvD5M",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 1498,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "What\u0027s the relation here?",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iLyVe0E",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 1602,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "\u0026\u0026 !mLocationManager...\n\nAlso, why does only this specific condition need to be updated (and not also e.g. the \u0027no fix\u0027 condition)?",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iFzuX.0",
+        "filename": "src/com/android/camera/ui/MoreSettingPopup.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "This change is unnecessary, please revert this.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iJzk9w0",
+        "filename": "src/com/android/camera/ui/MoreSettingPopup.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Same here.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iHzxI80",
+        "filename": "src/com/android/camera/ui/MoreSettingPopup.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Same here.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iDy6i.I",
+        "filename": "src/com/android/camera/ui/MoreSettingPopup.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Brace should be on the same line",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iBy-x9E",
+        "filename": "src/com/android/camera/ui/MoreSettingPopup.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-04T12:15:52Z",
+      "side": 1,
+      "message": "Brace missing here.",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
