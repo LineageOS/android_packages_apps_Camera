@@ -155,6 +155,24 @@
     },
     {
       "key": {
+        "uuid": "iDyPKyU",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 1498,
+      "author": {
+        "id": 6316
+      },
+      "writtenOn": "2013-06-04T15:13:04Z",
+      "side": 1,
+      "message": "I found no other solution than to put this line here, but this is due to my ignorance... Without it, the GPS-icon shows up in gallery mode (after swiping from camera to gallery) after you rotate the screen. I did not find another way to always prevent the icon from showing up in gallery mode. A better solution is welcome ;)\n\nBtw, exactly the same happens with the delayed- or voice shutter icons...",
+      "parentUuid": "iNyvD5M",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "iLyVe0E",
         "filename": "src/com/android/camera/PhotoModule.java",
         "patchSetId": 7
