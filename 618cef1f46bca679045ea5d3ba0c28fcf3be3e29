@@ -104,6 +104,24 @@
     },
     {
       "key": {
+        "uuid": "iF1z.U0",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 208,
+      "author": {
+        "id": 6316
+      },
+      "writtenOn": "2013-06-07T03:07:57Z",
+      "side": 1,
+      "message": "Gives a conflict as we are in another class also called LocationManager",
+      "parentUuid": "iDyha6o",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "iBymp8E",
         "filename": "src/com/android/camera/PhotoController.java",
         "patchSetId": 7
@@ -184,6 +202,24 @@
       "writtenOn": "2013-06-04T12:15:52Z",
       "side": 1,
       "message": "\u0026\u0026 !mLocationManager...\n\nAlso, why does only this specific condition need to be updated (and not also e.g. the \u0027no fix\u0027 condition)?",
+      "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iH133QI",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 1602,
+      "author": {
+        "id": 6316
+      },
+      "writtenOn": "2013-06-07T03:07:57Z",
+      "side": 1,
+      "message": "the \"no fix\" and \"fix aquired\" conditions are handled by LocationManager.onGpsStatusChanged(int event)",
+      "parentUuid": "iLyVe0E",
       "revId": "618cef1f46bca679045ea5d3ba0c28fcf3be3e29",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
