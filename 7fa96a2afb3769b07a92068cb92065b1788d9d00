@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iEjVckE",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-10T11:38:42Z",
+      "side": 1,
+      "message": "Maybe this could be collapsed into showGpsOnScreenIndicator, e.g. like this:\n\npublic void showGpsOnScreenIndicator(boolean enabled, boolean hasSignal);",
+      "revId": "7fa96a2afb3769b07a92068cb92065b1788d9d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iCjKPqI",
+        "filename": "src/com/android/camera/LocationManager.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-10T11:38:42Z",
+      "side": 1,
+      "message": "mListener null check missing here? (at least it\u0027s inconsistent to line 156)\n\nI would move lines 155-157 to the end of the method. What may make even more sense is a updateGpsStatusIndicator() method which:\n\n- checks mListener for null\n- checks mRecordLocation (if false -\u003e hide indicator)\n- checks whether the provider is enabled (may want to keep this in a member) (if false -\u003e show disabled)\n- shows indicator based on mHasGpsFix",
+      "revId": "7fa96a2afb3769b07a92068cb92065b1788d9d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iGjQNlQ",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 1595,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-10T11:38:42Z",
+      "side": 1,
+      "message": "Making this call a mLocationManager.isGpsEnabled() would improve readability, I think\n\n(and I don\u0027t think we ever need to query the enable state of other providers)\n\nAlso, as a follow-up to the discussion in PS7, I still don\u0027t understand why only the disabled condition needs to be updated here. Suppose you have no GPS fix and then rotate the device - what will update the indicator? onGpsStatusChanged is not guaranteed to be called as there might be no actual change.\n\nWhat about adding the suggested updateGpsIndicator method to LocationManager and doing this here:\n\nif (mLocationManager !\u003d null) {\n    mLocationManager.updateGpsIndicator();\n}",
+      "revId": "7fa96a2afb3769b07a92068cb92065b1788d9d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iKjnbj8",
+        "filename": "src/com/android/camera/ui/MoreSettingPopup.java",
+        "patchSetId": 9
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-06-10T11:38:42Z",
+      "side": 1,
+      "message": "What exactly is this supposed to do?",
+      "revId": "7fa96a2afb3769b07a92068cb92065b1788d9d00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
