@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "iHxSNRU",
+        "filename": "res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 2296
+      },
+      "writtenOn": "2013-06-15T14:15:55Z",
+      "side": 1,
+      "message": "Tab + is it really worth noting \"Bad HAL\"? :P",
+      "revId": "8a70f76704700e002fa6a5d1225972d1d1d57c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iDwl3ao",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 297,
+      "author": {
+        "id": 2296
+      },
+      "writtenOn": "2013-06-15T14:15:55Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "8a70f76704700e002fa6a5d1225972d1d1d57c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iBw7OdM",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 2296
+      },
+      "writtenOn": "2013-06-15T14:15:55Z",
+      "side": 1,
+      "message": "mSecondChance",
+      "revId": "8a70f76704700e002fa6a5d1225972d1d1d57c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "iPw3ZeE",
+        "filename": "src/com/android/camera/Camera.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2124,
+      "author": {
+        "id": 2296
+      },
+      "writtenOn": "2013-06-15T14:15:55Z",
+      "side": 1,
+      "message": "4 spaces, not tabs",
+      "revId": "8a70f76704700e002fa6a5d1225972d1d1d57c47",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
