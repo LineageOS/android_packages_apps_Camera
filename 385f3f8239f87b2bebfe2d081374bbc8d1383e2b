@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_08c78f13",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1928,
+      "author": {
+        "id": 1579
+      },
+      "writtenOn": "2013-06-28T19:07:54Z",
+      "side": 1,
+      "message": "That causing NPE below when Burst mode is off, should be something like\n\n} else if(nbBurstShots \u003e 1) {",
+      "revId": "385f3f8239f87b2bebfe2d081374bbc8d1383e2b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
