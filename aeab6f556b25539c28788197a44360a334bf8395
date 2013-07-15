@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_1aab3e8b",
+        "filename": "src/com/android/camera/PhotoModule.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 319,
+      "author": {
+        "id": 2296
+      },
+      "writtenOn": "2013-07-15T16:04:04Z",
+      "side": 1,
+      "message": "Small nitpick: use mResetExposure rather than resetExposure.",
+      "revId": "aeab6f556b25539c28788197a44360a334bf8395",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
