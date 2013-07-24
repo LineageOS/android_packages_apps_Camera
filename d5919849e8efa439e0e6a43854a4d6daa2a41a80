@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3acd31a7_9a876dd7",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 4733
+      },
+      "writtenOn": "2013-07-24T10:14:01Z",
+      "side": 1,
+      "message": "\"Vintage\" sounds much better, in future we may found another term for this.\nFor now I think keeping the english term is ok",
+      "parentUuid": "3acd31a7_fa030175",
+      "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3acd31a7_5af55581",
         "filename": "res/values-es/cm_strings.xml",
         "patchSetId": 3
@@ -30,6 +48,23 @@
       "writtenOn": "2013-07-24T09:37:01Z",
       "side": 1,
       "message": "I can\u0027t suggest another word.",
+      "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3acd31a7_5a3c352f",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 4733
+      },
+      "writtenOn": "2013-07-24T10:14:01Z",
+      "side": 1,
+      "message": "Isn\u0027t \"del\" missing?\nI mean \"Velocidad del obturador\"\nOr with this it fits the avalaible space?",
       "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
