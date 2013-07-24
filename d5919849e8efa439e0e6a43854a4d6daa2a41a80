@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "3acd31a7_9ad52dbb",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-07-24T10:37:47Z",
+      "side": 1,
+      "message": "Ok, then \u0027Vintage\u0027, a French term ;)",
+      "parentUuid": "3acd31a7_9a876dd7",
+      "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3acd31a7_5af55581",
         "filename": "res/values-es/cm_strings.xml",
         "patchSetId": 3
@@ -65,6 +83,24 @@
       "writtenOn": "2013-07-24T10:14:01Z",
       "side": 1,
       "message": "Isn\u0027t \"del\" missing?\nI mean \"Velocidad del obturador\"\nOr with this it fits the avalaible space?",
+      "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3acd31a7_bad0e9ca",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-07-24T10:37:47Z",
+      "side": 1,
+      "message": "In xhdpi device doesn\u0027t fit with \u0027del\u0027. I haven\u0027t a Sony device to test it, but similar strings in Maguro shows 20-22 chars only.",
+      "parentUuid": "3acd31a7_5a3c352f",
       "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
