@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "3acd31a7_bdf22305",
+        "filename": "res/values-es/cm_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-07-24T21:19:43Z",
+      "side": 1,
+      "message": "I prefer a spanish term, like \"Retro\"",
+      "parentUuid": "3acd31a7_9ad52dbb",
+      "revId": "d5919849e8efa439e0e6a43854a4d6daa2a41a80",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3acd31a7_5af55581",
         "filename": "res/values-es/cm_strings.xml",
         "patchSetId": 3
