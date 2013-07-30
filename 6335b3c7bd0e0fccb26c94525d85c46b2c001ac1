@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_bc9ea505",
+        "filename": "res/values-it/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 3916
+      },
+      "writtenOn": "2013-07-30T16:54:33Z",
+      "side": 1,
+      "message": "Cartone animato?",
+      "revId": "6335b3c7bd0e0fccb26c94525d85c46b2c001ac1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
