@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1aca2d91_259a7015",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-04T21:56:37Z",
+      "side": 1,
+      "message": "\"Razmyto\" zhe.",
+      "parentUuid": "1aca2d91_81ac99ee",
+      "revId": "4be61e10c27089369813d23f479f6efc9b2a2ad5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1aca2d91_a1af95e2",
         "filename": "res/values-ru/cm_strings.xml",
         "patchSetId": 1
@@ -64,6 +82,24 @@
       "writtenOn": "2013-08-04T10:03:02Z",
       "side": 1,
       "message": "Mozhet \"Vyderzhka\"?",
+      "revId": "4be61e10c27089369813d23f479f6efc9b2a2ad5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1aca2d91_c5897ccc",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-04T21:56:37Z",
+      "side": 1,
+      "message": "Esli v parametrah ukazano chto-to vrode \"1/400\" to da, ona.",
+      "parentUuid": "1aca2d91_c1f731f4",
       "revId": "4be61e10c27089369813d23f479f6efc9b2a2ad5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
