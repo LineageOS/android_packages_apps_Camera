@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fae47921_26b60e3e",
+        "filename": "res/values-ru/cm_strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-08-08T02:36:56Z",
+      "side": 1,
+      "message": "Razve ne krasniy i zheltiy (v smysle oba tsveta)?",
+      "revId": "ec7632bb9e5b62e9bf8946c4e205b46b7f6edd8b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
